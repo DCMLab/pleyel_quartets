@@ -1,0 +1,5 @@
+id	path	filename	extension	md5	composed_start	composed_end	annotator
+0	./op2n1.mscx	op2n1	.mscx	49dfee7deb01dd40e088d20109173491	1782	1783	Adrian Nagel
+1	./op2n3.mscx	op2n3	.mscx	9c10fc6d1577ebfbfdc96814fefc5526	1782	1783	Adrian Nagel
+2	unannotated/op2n1.mscx	op2n1	.mscx	3b66420d5d97eff9e450259f74b1e2ad	1782	1783	Adrian Nagel
+3	unannotated/op2n3.mscx	op2n3	.mscx	a43a64c90ec745c935e6b20f58801281	1782	1783	Adrian Nagel
