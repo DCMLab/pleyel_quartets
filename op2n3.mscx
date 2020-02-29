@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programRevision>3543170</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -755,6 +755,7 @@ Op.2, B. 309</b></text>
           <text><sym>unicodeNoteQuarterUp</sym> = 120</text>
           </Tempo>
         <StaffText>
+          <pos x="0" y="-8.61989"/>
           <text><font size="10"></font><font face="Sansation Regular"></font><b>Adagio</b></text>
           </StaffText>
         <StaffText>
@@ -769,6 +770,9 @@ Op.2, B. 309</b></text>
           <xoffset>0</xoffset>
           <yoffset>7.5</yoffset>
           </Dynamic>
+        <Harmony>
+          <name>.g.i</name>
+          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -800,12 +804,6 @@ Op.2, B. 309</b></text>
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <Harmony>
-          <root>15</root>
-          <rootCase>1</rootCase>
-          <name>.i</name>
-          <pos x="-0.2" y="-2.5"/>
-          </Harmony>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
