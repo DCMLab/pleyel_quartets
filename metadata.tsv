@@ -1,5 +1,5 @@
-path	filename	extension	md5	label_count	KeySig	TimeSig	composer	copyright	movementTitle	musescore
+path	filename	extension	md5	label_count	KeySig	TimeSig	composer	copyright	movementTitle	musescore	composed_start	composed_end	annotator
 MS3/op2n1.mscx	op2n1	.mscx	45e01bb2b5f9a44f3a74d15009a3790f	731	3, 0, 3	4/4, 6/8, 3/4	"I. Pleyel
-"	YDME2015012 (v. 1.0)	QUARTETTO I	3.4.2
+"	YDME2015012 (v. 1.0)	QUARTETTO I	3.4.2	1782	1783	Adrian Nagel
 MS3/op2n3.mscx	op2n3	.mscx	a75741ccd98b2061e9bfb53457de0357	821	-2, 1	2/2, 3/4	"I. Pleyel
-"	YDME2015012 (v. 1.0)	QUARTETTO III	3.4.2
+"	YDME2015012 (v. 1.0)	QUARTETTO III	3.4.2	1782	1783	Adrian Nagel
