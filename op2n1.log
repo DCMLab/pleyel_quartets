@@ -8,5 +8,44 @@ MC 200 (1/8) and MC 201 (3/4) don't add up to 3/4.
 MC 329 (1/4) and MC 330 (3/4) don't add up to 3/4.
 Done parsing op2n1.mscx
 
+The following chords could not be parsed:
+      mc   mn onset        label
+84    45   45     0          V"V
+100   48   48     0         V"\\
+138   62   62   3/4        @none
+141   66   66     0          I"I
+145   68   68     0           I"
+182   88   88   3/4        @none
+183   90   90     0   III.I"I(2)
+189   94   94     0         I"\\
+203  103  103     0      III"III
+247  134  134     0          V"V
+263  137  137     0         V"\\
+301  151  151   3/4        @none
+380  193  193     0          I"I
+393  201  201   1/8           .i
+454  238  238     0          I"I
+470  245  245     0         I"\\
+480  253  253     0      .Ger6/V
+481  253  253   3/8        .It/V
+483  254  254   1/4        .It/V
+485  254  254   5/8        .It/V
+487  255  255   3/8        @none
+488  258  258     0    III"V7/VI
+496  262  262   3/8       V7/VI"
+500  265  265     0    IV"V7/VII
+501  265  265   3/8  viio43/VII"
+502  266  266     0   VII"V7/III
+503  266  266   3/8  vii%65/III"
+548  292  292   1/4       .It6/V
+554  294  294   1/4       .It6/V
+556  295  295     0          i"i
+564  299  299     0         i"\\
+581  308  308     0           .I
+603  316  316     0          V"V
+605  318  318     0           I"
+697  367  367     0          V"V
+699  369  369     0           I"
+726  382  382   1/2        @none
 Failed to expand labels due to syntactic errors:
-'float' object is not iterable
+repl_spec() missing 1 required positional argument: 'special'

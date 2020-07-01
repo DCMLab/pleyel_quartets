@@ -1,5 +1,38 @@
 Attempting to parse op2n3.mscx
 Done parsing op2n3.mscx
 
+The following chords could not be parsed:
+      mc   mn onset    label
+13     9    9   1/2  .Ger6/V
+14     9    9   3/4   .It6/V
+24    16   16     0    V"V\\
+37    20   20   1/2       V"
+96    44   44   3/4   .It6/V
+102   47   47     0      i"i
+105   50   50     0       i"
+108   52   52   1/2  .Ger6/V
+109   53   53     0    @none
+118   60   60     0    i"iv6
+133   63   63   7/8   V7/iv"
+160   77   77   3/4    @none
+222  113  113     0    @none
+229  115  115   1/4    @none
+236  117  117   1/4    @none
+306  154  154   1/4    @none
+360  184  184   1/4    @none
+367  187  187   1/4    @none
+419  208  208   1/4    @none
+429  215  215   1/2  V"V(64)
+437  220  220     0    v.iv"
+443  225  225     0      i"i
+447  229  229     0       i"
+468  240  240     0    @none
+604  317  317   1/2    @none
+663  347  347   1/4    @none
+670  350  350   1/4    @none
+723  376  376     0    @none
+754  399  399     0  .Ger6/V
+755  399  399   1/2   .It6/V
+772  412  412     0    @none
 Failed to expand labels due to syntactic errors:
-'float' object is not iterable
+repl_spec() missing 1 required positional argument: 'special'
