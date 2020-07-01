@@ -3853,8 +3853,6 @@ Op.2, B. 307</b></text>
             <offset x="0.329141" y="2.87361"/>
             </Dynamic>
           <Harmony>
-            <root>19</root>
-            <rootCase>1</rootCase>
             <name>VI</name>
             </Harmony>
           <Chord>
@@ -9287,8 +9285,6 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <root>19</root>
-            <rootCase>1</rootCase>
             <name>III.I&quot;I(2)</name>
             <offset x="-2.2" y="-2.6"/>
             </Harmony>
@@ -12595,8 +12591,6 @@ Op.2, B. 307</b></text>
             <offset x="0.329141" y="3.07361"/>
             </Dynamic>
           <Harmony>
-            <root>19</root>
-            <rootCase>1</rootCase>
             <name>VI</name>
             </Harmony>
           <Chord>
@@ -19905,8 +19899,6 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <root>17</root>
-            <rootCase>1</rootCase>
             <name>.i</name>
             <offset x="-0.1" y="-5.5"/>
             </Harmony>
@@ -20034,8 +20026,6 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <root>19</root>
-            <rootCase>1</rootCase>
             <name>II6</name>
             </Harmony>
           <Chord>
@@ -20299,8 +20289,6 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <root>19</root>
-            <rootCase>1</rootCase>
             <name>II6</name>
             </Harmony>
           <Chord>
@@ -27233,8 +27221,6 @@ Op.2, B. 307</b></text>
             <offset x="0.658281" y="3.37361"/>
             </Dynamic>
           <Harmony>
-            <root>19</root>
-            <rootCase>1</rootCase>
             <name>II6</name>
             </Harmony>
           <Beam>
@@ -28582,8 +28568,6 @@ Op.2, B. 307</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <root>19</root>
-            <rootCase>1</rootCase>
             <name>II6</name>
             </Harmony>
           <Chord>
@@ -28716,8 +28700,6 @@ Op.2, B. 307</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <root>19</root>
-            <rootCase>1</rootCase>
             <name>II6</name>
             </Harmony>
           <Chord>
@@ -28982,7 +28964,6 @@ Op.2, B. 307</b></text>
             <text><font size="6.4"></font><i>senza sordini</i></text>
             </StaffText>
           <Harmony>
-            <root>17</root>
             <name>.I</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
