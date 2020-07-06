@@ -35,6 +35,6 @@ WARNING  op2n1.expand_labels -- The following chords could not be parsed:
 605  318  318     0           I"
 697  367  367     0          V"V
 699  369  369     0           I"
-WARNING  op2n1.expand_labels -- MC 102: #viio65 in major context is most probably an annotation error.
 WARNING  op2n1.expand_labels -- MC 104: #viio2 in major context is most probably an annotation error.
 WARNING  op2n1.expand_labels -- MC 103: #viio2 in major context is most probably an annotation error.
+WARNING  op2n1.expand_labels -- MC 102: #viio65 in major context is most probably an annotation error.
