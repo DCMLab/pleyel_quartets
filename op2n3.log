@@ -1,15 +1,2 @@
 INFO     op2n3.ms3 -- Attempting to parse op2n3.mscx
 INFO     op2n3.ms3 -- Done parsing op2n3.mscx
-
-WARNING  op2n3.expand_labels -- The following chords could not be parsed:
-      mc   mn onset    label
-24    16   16     0    V"V\\
-37    20   20   1/2       V"
-102   47   47     0      i"i
-105   50   50     0       i"
-118   60   60     0    i"iv6
-133   63   63   7/8   V7/iv"
-429  215  215   1/2  V"V(64)
-437  220  220     0    v.iv"
-443  225  225     0      i"i
-447  229  229     0       i"

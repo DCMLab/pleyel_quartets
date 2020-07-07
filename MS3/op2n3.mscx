@@ -802,6 +802,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -854,6 +855,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1528,7 +1530,7 @@ Op.2, B. 309</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>V&quot;V\\</name>
+            <name>V[V\\</name>
             <offset x="-0.2" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -2061,7 +2063,7 @@ Op.2, B. 309</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V&quot;</name>
+            <name>V]</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -4533,7 +4535,7 @@ Op.2, B. 309</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>i&quot;i</name>
+            <name>i[i</name>
             </Harmony>
           <Rest>
             <durationType>half</durationType>
@@ -4902,7 +4904,7 @@ Op.2, B. 309</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>i&quot;</name>
+            <name>i]</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -6296,7 +6298,7 @@ Op.2, B. 309</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>i&quot;iv6</name>
+            <name>iv64</name>
             <offset x="-0.1" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -6370,6 +6372,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -6423,7 +6426,7 @@ Op.2, B. 309</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>iv(4)</name>
+            <name>iv64(11)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6509,7 +6512,7 @@ Op.2, B. 309</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>iv6</name>
+            <name>iv64</name>
             <offset x="-0.1" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -6557,6 +6560,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -6617,6 +6621,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -6670,7 +6675,7 @@ Op.2, B. 309</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>iv(4)</name>
+            <name>iv64(11)</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Beam>
@@ -6748,7 +6753,7 @@ Op.2, B. 309</b></text>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
-            <name>V7/iv&quot;</name>
+            <name>V7/iv</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -7910,6 +7915,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7963,6 +7969,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8016,6 +8023,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8072,6 +8080,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8125,6 +8134,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8181,6 +8191,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8241,6 +8252,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8294,6 +8306,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8346,6 +8359,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8397,6 +8411,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8456,6 +8471,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8507,6 +8523,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8570,6 +8587,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8618,6 +8636,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8677,6 +8696,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8730,6 +8750,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8790,6 +8811,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8856,6 +8878,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8912,6 +8935,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8972,6 +8996,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9035,6 +9060,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9086,6 +9112,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9138,6 +9165,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9177,6 +9205,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9233,6 +9262,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9296,6 +9326,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9353,6 +9384,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9410,6 +9442,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9474,6 +9507,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9525,6 +9559,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9571,6 +9606,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9607,6 +9643,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9660,6 +9697,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9723,6 +9761,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9779,6 +9818,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9839,6 +9879,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9902,6 +9943,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9955,6 +9997,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10008,6 +10051,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10061,6 +10105,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10121,6 +10166,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10152,6 +10198,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10188,6 +10235,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10224,6 +10272,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10267,6 +10316,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10301,6 +10351,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10340,6 +10391,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10379,6 +10431,7 @@ Op.2, B. 309</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10751,6 +10804,7 @@ Op.2, B. 309</b></text>
         <voice>
           <BarLine>
             <subtype>start-repeat</subtype>
+            <span>1</span>
             </BarLine>
           <StaffText>
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Allegro assai</b></text>
@@ -18547,7 +18601,7 @@ Op.2, B. 309</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V&quot;V(64)</name>
+            <name>V[V(64)</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -18753,7 +18807,7 @@ Op.2, B. 309</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>v.iv&quot;</name>
+            <name>v.iv]</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -18898,7 +18952,7 @@ Op.2, B. 309</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>i&quot;i</name>
+            <name>i[i</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -19169,7 +19223,7 @@ Op.2, B. 309</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>i&quot;</name>
+            <name>i]</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -29625,6 +29679,7 @@ Op.2, B. 309</b></text>
             </Rest>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -29637,6 +29692,7 @@ Op.2, B. 309</b></text>
             </TimeSig>
           <BarLine>
             <subtype>start-repeat</subtype>
+            <span>1</span>
             </BarLine>
           <StaffText>
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Grazioso</b></text>
@@ -33432,6 +33488,7 @@ Op.2, B. 309</b></text>
             </KeySig>
           <BarLine>
             <subtype>start-repeat</subtype>
+            <span>1</span>
             </BarLine>
           <StaffText>
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Maggiore</b></text>
@@ -33941,6 +33998,7 @@ Op.2, B. 309</b></text>
         <voice>
           <BarLine>
             <subtype>start-repeat</subtype>
+            <span>1</span>
             </BarLine>
           <Chord>
             <durationType>eighth</durationType>
@@ -40010,6 +40068,7 @@ Op.2, B. 309</b></text>
         <voice>
           <BarLine>
             <subtype>start-repeat</subtype>
+            <span>1</span>
             </BarLine>
           <Dynamic>
             <subtype>f</subtype>
@@ -56691,6 +56750,7 @@ Op.2, B. 309</b></text>
             </Rest>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -56702,6 +56762,7 @@ Op.2, B. 309</b></text>
             </TimeSig>
           <BarLine>
             <subtype>start-repeat</subtype>
+            <span>1</span>
             </BarLine>
           <StaffText>
             <text><font size="6.4"></font><i>con sordini</i></text>
@@ -59876,6 +59937,7 @@ Op.2, B. 309</b></text>
             </KeySig>
           <BarLine>
             <subtype>start-repeat</subtype>
+            <span>1</span>
             </BarLine>
           <Rest>
             <durationType>quarter</durationType>
@@ -60140,6 +60202,7 @@ Op.2, B. 309</b></text>
         <voice>
           <BarLine>
             <subtype>start-repeat</subtype>
+            <span>1</span>
             </BarLine>
           <Rest>
             <durationType>quarter</durationType>

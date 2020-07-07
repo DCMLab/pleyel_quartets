@@ -294,6 +294,7 @@ Op.2, B. 307</b></text>
           </Text>
         </VBox>
       <Measure len="1/4">
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>3</accidental>
@@ -3642,6 +3643,7 @@ Op.2, B. 307</b></text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3990,7 +3992,7 @@ Op.2, B. 307</b></text>
             <offset x="0.658281" y="2.67361"/>
             </Dynamic>
           <Harmony>
-            <name>V&quot;V</name>
+            <name>V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -4051,7 +4053,7 @@ Op.2, B. 307</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V(b642)</name>
+            <name>V(9b64)</name>
             <offset x="-4.7" y="-2.5"/>
             </Harmony>
           <Chord>
@@ -4135,7 +4137,7 @@ Op.2, B. 307</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V(b642)</name>
+            <name>V(9b64)</name>
             <offset x="-4.7" y="-2.5"/>
             </Harmony>
           <Chord>
@@ -4223,7 +4225,7 @@ Op.2, B. 307</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V(b642)</name>
+            <name>V(9b64)</name>
             <offset x="-4.7" y="-2.5"/>
             </Harmony>
           <Chord>
@@ -4310,7 +4312,7 @@ Op.2, B. 307</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V(b642)</name>
+            <name>V(9b64)</name>
             <offset x="-4.7" y="-2.5"/>
             </Harmony>
           <Chord>
@@ -4356,7 +4358,7 @@ Op.2, B. 307</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V(642)</name>
+            <name>V(964)</name>
             <offset x="-1.6" y="-2.5"/>
             </Harmony>
           <Chord>
@@ -4398,7 +4400,7 @@ Op.2, B. 307</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V(642)</name>
+            <name>V(964)</name>
             <offset x="-2.6" y="-2.5"/>
             </Harmony>
           <Chord>
@@ -4440,7 +4442,7 @@ Op.2, B. 307</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V(642)</name>
+            <name>V(964)</name>
             <offset x="-3.1" y="-2.5"/>
             </Harmony>
           <Chord>
@@ -4482,7 +4484,7 @@ Op.2, B. 307</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V(642)</name>
+            <name>V(964)</name>
             <offset x="-2" y="-2.5"/>
             </Harmony>
           <Chord>
@@ -4506,7 +4508,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>V&quot;\\</name>
+            <name>V\\</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -6087,7 +6089,7 @@ Op.2, B. 307</b></text>
             <offset x="0.329141" y="4.87361"/>
             </Dynamic>
           <Harmony>
-            <name>I&quot;I</name>
+            <name>I[I</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6399,7 +6401,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>I&quot;</name>
+            <name>I]</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9058,7 +9060,15 @@ Op.2, B. 307</b></text>
           </voice>
         </Measure>
       <Measure>
+        <irregular>1</irregular>
         <voice>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -9070,13 +9080,6 @@ Op.2, B. 307</b></text>
                 <measures>1</measures>
                 </location>
               </next>
-            </Spanner>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
             </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -9126,10 +9129,6 @@ Op.2, B. 307</b></text>
             <velocity>88</velocity>
             <offset x="0.329141" y="2.67361"/>
             </Dynamic>
-          <Harmony>
-            <name>@none</name>
-            <offset x="0" y="-4.5"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -9163,6 +9162,9 @@ Op.2, B. 307</b></text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i6</name>
+            </Harmony>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -9225,6 +9227,9 @@ Op.2, B. 307</b></text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>III.viio6</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -9285,7 +9290,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>III.I&quot;I(2)</name>
+            <name>I[I(9)</name>
             <offset x="-2.2" y="-2.6"/>
             </Harmony>
           <Beam>
@@ -9309,6 +9314,9 @@ Op.2, B. 307</b></text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
@@ -9327,9 +9335,6 @@ Op.2, B. 307</b></text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -9474,7 +9479,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>I(2)</name>
+            <name>I(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9487,6 +9492,9 @@ Op.2, B. 307</b></text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
@@ -9498,9 +9506,6 @@ Op.2, B. 307</b></text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -9726,7 +9731,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>I&quot;\\</name>
+            <name>I]\\</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -10180,7 +10185,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>vi(2)</name>
+            <name>vi(9)</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -10213,7 +10218,7 @@ Op.2, B. 307</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio65/III</name>
+            <name>viio65/III</name>
             <offset x="-1" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -10250,7 +10255,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>III&quot;III</name>
+            <name>III[V/vi</name>
             <offset x="-0.2" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -10303,7 +10308,7 @@ Op.2, B. 307</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio2/III</name>
+            <name>viio2/III</name>
             <offset x="-0.1" y="-6.5"/>
             </Harmony>
           <Beam>
@@ -10384,7 +10389,7 @@ Op.2, B. 307</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio2/III</name>
+            <name>viio2/III</name>
             <offset x="-0.1" y="-6.5"/>
             </Harmony>
           <Beam>
@@ -10486,7 +10491,7 @@ Op.2, B. 307</b></text>
             <text><font size="6.4"></font><i>perdendosi</i></text>
             </StaffText>
           <Harmony>
-            <name>I6</name>
+            <name>I6]</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -12728,7 +12733,7 @@ Op.2, B. 307</b></text>
             <offset x="0.329141" y="4.37361"/>
             </Dynamic>
           <Harmony>
-            <name>V&quot;V</name>
+            <name>V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13230,7 +13235,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>V&quot;\\</name>
+            <name>V\\</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -19163,7 +19168,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>I&quot;I</name>
+            <name>I[I</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -19238,7 +19243,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>I(2)</name>
+            <name>I(9)</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Beam>
@@ -19262,6 +19267,9 @@ Op.2, B. 307</b></text>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
@@ -19277,10 +19285,6 @@ Op.2, B. 307</b></text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>I</name>
-            <offset x="0" y="-3.5"/>
-            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -19446,7 +19450,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>I(2)</name>
+            <name>I(9)</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Beam>
@@ -19470,6 +19474,9 @@ Op.2, B. 307</b></text>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
@@ -19485,10 +19492,6 @@ Op.2, B. 307</b></text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>I</name>
-            <offset x="0" y="-3.5"/>
-            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -19587,7 +19590,7 @@ Op.2, B. 307</b></text>
             <offset x="0.329141" y="3.37361"/>
             </Dynamic>
           <Harmony>
-            <name>I\\</name>
+            <name>I]\\</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -19875,6 +19878,7 @@ Op.2, B. 307</b></text>
             <sigD>8</sigD>
             </TimeSig>
           <StaffText>
+            <offset x="-0.534309" y="-13.4397"/>
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Andante Grazioso</b></text>
             </StaffText>
           <Dynamic>
@@ -19885,6 +19889,9 @@ Op.2, B. 307</b></text>
           <StaffText>
             <text><font size="6.4"></font><i>con sordini</i></text>
             </StaffText>
+          <Harmony>
+            <name>i.i6</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -19899,8 +19906,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>.i</name>
-            <offset x="-0.1" y="-5.5"/>
+            <name>i</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -19931,7 +19937,7 @@ Op.2, B. 307</b></text>
             </Chord>
           <Harmony>
             <name>V7</name>
-            <offset x="0" y="-5.5"/>
+            <offset x="0" y="-2.82845"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -20026,7 +20032,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>II6</name>
+            <name>.bII6</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -20170,6 +20176,9 @@ Op.2, B. 307</b></text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <name>i6</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -20289,7 +20298,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>II6</name>
+            <name>.bII6</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -20368,7 +20377,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>i(#742)</name>
+            <name>i(9#74)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -23009,7 +23018,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>I&quot;I</name>
+            <name>I[I</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -23780,7 +23789,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>I&quot;\\</name>
+            <name>I]\\</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -24382,7 +24391,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>.Ger6/V</name>
+            <name>.Ger6</name>
             <offset x="-1" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -24406,7 +24415,7 @@ Op.2, B. 307</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <name>.It/V</name>
+            <name>.It6</name>
             <offset x="-1" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -24487,7 +24496,7 @@ Op.2, B. 307</b></text>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
-            <name>.It/V</name>
+            <name>.It6</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -24538,7 +24547,7 @@ Op.2, B. 307</b></text>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
-            <name>.It/V</name>
+            <name>.It6</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -24590,9 +24599,6 @@ Op.2, B. 307</b></text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <name>@none</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -24607,10 +24613,19 @@ Op.2, B. 307</b></text>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
+          <Harmony>
+            <name>iv-iio6</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>III[III-i6</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/4</duration>
@@ -24625,7 +24640,7 @@ Op.2, B. 307</b></text>
             <offset x="0.658281" y="2.87361"/>
             </Dynamic>
           <Harmony>
-            <name>III&quot;V7/VI</name>
+            <name>V7/VI</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -24722,7 +24737,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>VI(2)</name>
+            <name>VI(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -25170,7 +25185,7 @@ Op.2, B. 307</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V7/VI&quot;</name>
+            <name>V7/VI]</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -25453,7 +25468,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>IV&quot;V7/VII</name>
+            <name>V7/VII</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -25502,9 +25517,6 @@ Op.2, B. 307</b></text>
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>viio43/VII&quot;</name>
-            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -25522,7 +25534,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>VII&quot;V7/III</name>
+            <name>V7/III</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -25550,9 +25562,6 @@ Op.2, B. 307</b></text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>vii%65/III&quot;</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -25696,7 +25705,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>i(42)</name>
+            <name>i(94)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -27923,7 +27932,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>i&quot;i</name>
+            <name>i[i</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -28434,7 +28443,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>i&quot;\\</name>
+            <name>i]\\</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -28454,6 +28463,9 @@ Op.2, B. 307</b></text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <name>i6</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -28568,7 +28580,7 @@ Op.2, B. 307</b></text>
               </Note>
             </Chord>
           <Harmony>
-            <name>II6</name>
+            <name>.bII6</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -28878,7 +28890,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>i(#742)</name>
+            <name>i(9#74)</name>
             <offset x="-1.5" y="-2.5"/>
             </Harmony>
           <Chord>
@@ -28951,6 +28963,7 @@ Op.2, B. 307</b></text>
             </TimeSig>
           <BarLine>
             <subtype>start-repeat</subtype>
+            <span>1</span>
             </BarLine>
           <StaffText>
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Menuetto</b></text>
@@ -29472,7 +29485,7 @@ Op.2, B. 307</b></text>
             <offset x="0.329141" y="3.37361"/>
             </Dynamic>
           <Harmony>
-            <name>V&quot;V</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -29589,7 +29602,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>I&quot;</name>
+            <name>I64</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -30157,6 +30170,7 @@ Op.2, B. 307</b></text>
           </voice>
         </Measure>
       <Measure>
+        <irregular>1</irregular>
         <LayoutBreak>
           <subtype>page</subtype>
           </LayoutBreak>
@@ -30196,6 +30210,7 @@ Op.2, B. 307</b></text>
             </Rest>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -33777,11 +33792,19 @@ Op.2, B. 307</b></text>
           </voice>
         </Measure>
       <Measure>
+        <irregular>1</irregular>
         <voice>
           <Harmony>
             <name>I\\</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -33793,13 +33816,6 @@ Op.2, B. 307</b></text>
                 <measures>1</measures>
                 </location>
               </next>
-            </Spanner>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
             </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -34345,7 +34361,7 @@ Op.2, B. 307</b></text>
             <offset x="0.329141" y="3.37361"/>
             </Dynamic>
           <Harmony>
-            <name>V&quot;V</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -34462,7 +34478,7 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Harmony>
-            <name>I&quot;</name>
+            <name>I64</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -35470,6 +35486,7 @@ Op.2, B. 307</b></text>
           </voice>
         </Measure>
       <Measure>
+        <endRepeat>2</endRepeat>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -35486,9 +35503,6 @@ Op.2, B. 307</b></text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -39986,6 +40000,13 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
               <beginText>2</beginText>
@@ -39996,13 +40017,6 @@ Op.2, B. 307</b></text>
                 <measures>1</measures>
                 </location>
               </next>
-            </Spanner>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
             </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -54186,6 +54200,7 @@ Op.2, B. 307</b></text>
             </TimeSig>
           <BarLine>
             <subtype>start-repeat</subtype>
+            <span>1</span>
             </BarLine>
           <StaffText>
             <placement>below</placement>
@@ -55252,6 +55267,7 @@ Op.2, B. 307</b></text>
             </Rest>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -56188,6 +56204,13 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
               <beginText>2</beginText>
@@ -56198,13 +56221,6 @@ Op.2, B. 307</b></text>
                 <measures>1</measures>
                 </location>
               </next>
-            </Spanner>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
             </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -57586,9 +57602,6 @@ Op.2, B. 307</b></text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -61526,6 +61539,13 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
               <beginText>2</beginText>
@@ -61536,13 +61556,6 @@ Op.2, B. 307</b></text>
                 <measures>1</measures>
                 </location>
               </next>
-            </Spanner>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
             </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -76597,6 +76610,13 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
               <beginText>2</beginText>
@@ -76607,13 +76627,6 @@ Op.2, B. 307</b></text>
                 <measures>1</measures>
                 </location>
               </next>
-            </Spanner>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
             </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -77928,9 +77941,6 @@ Op.2, B. 307</b></text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -82088,6 +82098,13 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
               <beginText>2</beginText>
@@ -82098,13 +82115,6 @@ Op.2, B. 307</b></text>
                 <measures>1</measures>
                 </location>
               </next>
-            </Spanner>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
             </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -93669,6 +93679,13 @@ Op.2, B. 307</b></text>
       <Measure>
         <voice>
           <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
               <beginText>2</beginText>
@@ -93679,13 +93696,6 @@ Op.2, B. 307</b></text>
                 <measures>1</measures>
                 </location>
               </next>
-            </Spanner>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
             </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -94567,9 +94577,6 @@ Op.2, B. 307</b></text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
