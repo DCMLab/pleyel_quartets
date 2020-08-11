@@ -4,3 +4,18 @@ WARNING  op2n1.ms3 -- MC 200 (1/8) and MC 201 (3/4) don't add up to 3/4.
 WARNING  op2n1.ms3 -- MC 329 (1/4) and MC 330 (3/4) don't add up to 3/4.
 INFO     op2n1.ms3 -- Done parsing op2n1.mscx
 
+WARNING  op2n1.expand_labels -- The following chords could not be parsed:
+      mc   mn onset   label
+138   62   61   3/4   @none
+302  151  149   3/4   @none
+400  203  201     0   .bII6
+409  207  205     0   .bII6
+483  253  251     0   .Ger6
+484  253  251   3/8    .It6
+486  254  252   1/4    .It6
+488  254  252   5/8    .It6
+550  292  290   1/4  .It6/V
+556  294  292   1/4  .It6/V
+572  301  299   3/8   .bII6
+584  308  306     0      .I
+729  382  378   1/2   @none
