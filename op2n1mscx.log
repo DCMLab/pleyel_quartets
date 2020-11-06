@@ -1,0 +1,6 @@
+2020-11-06 16:11:27 WARNING  op2n1:MeasureList -- bs4_measures.py (line 674) make_offset_col():
+	The incomplete MC 200 (timesig 3/4, act_dur 1/8) is completed by 1 incorrect duration (expected: 5/8):
+	{201: Fraction(3, 4)}
+2020-11-06 16:11:27 WARNING  op2n1:MeasureList -- bs4_measures.py (line 674) make_offset_col():
+	The incomplete MC 329 (timesig 3/4, act_dur 1/4) is completed by 1 incorrect duration (expected: 1/2):
+	{330: Fraction(3, 4)}
