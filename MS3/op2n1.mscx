@@ -217,11 +217,15 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="composed_end">1783</metaTag>
+    <metaTag name="composed_start">1782</metaTag>
     <metaTag name="composer">I. Pleyel
 </metaTag>
     <metaTag name="copyright">YDME2015012 (v. 1.0)</metaTag>
     <metaTag name="creationDate">2017-11-21</metaTag>
+    <metaTag name="harmony_version">2.1.0</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle">QUARTETTO I</metaTag>

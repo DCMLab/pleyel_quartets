@@ -1,5 +1,5 @@
-rel_paths	fnames	last_mc	last_mn	KeySig	TimeSig	label_count	annotated_key	composer	workTitle	movementNumber	movementTitle	workNumber	poet	lyricist	arranger	copyright	creationDate	mscVersion	platform	source	translator	musescore	ambitus	harmony_version	annotators	composed_end	composed_start	originalFormat	staff_1_ambitus	staff_1_instrument	staff_2_ambitus	staff_2_instrument	staff_3_ambitus	staff_3_instrument	staff_4_ambitus	staff_4_instrument
-MS3	op2n1	388	384	1: 3, 200: 0, 308: 3	1: 4/4, 200: 6/8, 308: 3/4	734	A	"I. Pleyel
-"			QUARTETTO I					YDME2015012 (v. 1.0)	2017-11-21	3.02	Apple Macintosh			3.6.2	36-93 (C2-A6)	2.1.0	Adrian Nagel	1783	1782	mxl	55-93 (G3-A6)	ARIA Player	55-81 (G3-A5)	ARIA Player	48-71 (C3-B4)	ARIA Player	36-69 (C2-A4)	ARIA Player
-MS3	op2n3	441	441	1: -2, 424: 1	1: 2/2, 368: 3/4	821	g	"I. Pleyel
-"			QUARTETTO III					YDME2015012 (v. 1.0)	2017-11-29	3.02	Apple Macintosh			3.6.2	36-87 (C2-Eb6)	2.1.0	Adrian Nagel	1783	1782	mxl	55-87 (G3-Eb6)	ARIA Player	55-82 (G3-Bb5)	ARIA Player	48-75 (C3-Eb5)	ARIA Player	36-65 (C2-F4)	ARIA Player
+rel_paths	fnames	last_mc	last_mn	KeySig	TimeSig	label_count	harmony_version	annotated_key	annotators	composer	workTitle	movementNumber	movementTitle	workNumber	poet	lyricist	arranger	copyright	creationDate	mscVersion	platform	source	translator	musescore	ambitus	composed_end	composed_start	originalFormat	staff_1_ambitus	staff_1_instrument	staff_2_ambitus	staff_2_instrument	staff_3_ambitus	staff_3_instrument	staff_4_ambitus	staff_4_instrument
+MS3	op2n1	388	384	1: 3, 200: 0, 308: 3	1: 4/4, 200: 6/8, 308: 3/4	734	2.1.0	A	Adrian Nagel	"I. Pleyel
+"			QUARTETTO I					YDME2015012 (v. 1.0)	2017-11-21	3.02	Apple Macintosh			3.6.2	36-93 (C2-A6)	1783	1782	mxl	55-93 (G3-A6)	ARIA Player	55-81 (G3-A5)	ARIA Player	48-71 (C3-B4)	ARIA Player	36-69 (C2-A4)	ARIA Player
+MS3	op2n3	441	441	1: -2, 424: 1	1: 2/2, 368: 3/4	821	2.1.0	g	Adrian Nagel	"I. Pleyel
+"			QUARTETTO III					YDME2015012 (v. 1.0)	2017-11-29	3.02	Apple Macintosh			3.6.2	36-87 (C2-Eb6)	1783	1782	mxl	55-87 (G3-Eb6)	ARIA Player	55-82 (G3-Bb5)	ARIA Player	48-75 (C3-Eb5)	ARIA Player	36-65 (C2-F4)	ARIA Player
