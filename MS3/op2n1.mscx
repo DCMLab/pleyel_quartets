@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -211,7 +211,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.12637</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -318,6 +317,12 @@
         <trackName>ARIA Player</trackName>
         <instrumentId>strings.cello</instrumentId>
         <Channel>
+          <program value="0"/>
+          <controller ctrl="7" value="101"/>
+          <controller ctrl="10" value="74"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="harmony">
           <program value="0"/>
           <controller ctrl="7" value="101"/>
           <controller ctrl="10" value="74"/>
@@ -18478,6 +18483,9 @@ Op.2, B. 307</b></text>
         </Measure>
       <Measure>
         <endRepeat>2</endRepeat>
+        <LayoutBreak>
+          <subtype>section</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -19034,9 +19042,6 @@ Op.2, B. 307</b></text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>pp</subtype>
@@ -21364,9 +21369,6 @@ Op.2, B. 307</b></text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -23442,9 +23444,6 @@ Op.2, B. 307</b></text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -26985,7 +26984,7 @@ Op.2, B. 307</b></text>
         </Measure>
       <Measure>
         <LayoutBreak>
-          <subtype>line</subtype>
+          <subtype>section</subtype>
           </LayoutBreak>
         <voice>
           <Chord>
@@ -27016,7 +27015,6 @@ Op.2, B. 307</b></text>
           </voice>
         </Measure>
       <Measure>
-        <startRepeat/>
         <voice>
           <KeySig>
             <accidental>3</accidental>
@@ -27026,10 +27024,6 @@ Op.2, B. 307</b></text>
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            <span>1</span>
-            </BarLine>
           <StaffText>
             <family>Sansation</family>
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Menuetto</b></text>
@@ -28050,6 +28044,9 @@ Op.2, B. 307</b></text>
         <irregular>1</irregular>
         <LayoutBreak>
           <subtype>page</subtype>
+          </LayoutBreak>
+        <LayoutBreak>
+          <subtype>section</subtype>
           </LayoutBreak>
         <voice>
           <Spanner type="Volta">
@@ -31523,6 +31520,9 @@ Op.2, B. 307</b></text>
         </Measure>
       <Measure>
         <irregular>1</irregular>
+        <LayoutBreak>
+          <subtype>section</subtype>
+          </LayoutBreak>
         <voice>
           <Spanner type="Volta">
             <prev>
@@ -31561,7 +31561,6 @@ Op.2, B. 307</b></text>
           </voice>
         </Measure>
       <Measure>
-        <startRepeat/>
         <voice>
           <StaffText>
             <family>Sansation</family>
@@ -51708,10 +51707,6 @@ Op.2, B. 307</b></text>
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            <span>1</span>
-            </BarLine>
           <StaffText>
             <placement>below</placement>
             <offset x="0" y="14.5091"/>
@@ -72427,9 +72422,6 @@ Op.2, B. 307</b></text>
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <StaffText>
             <placement>below</placement>
             <offset x="0" y="15.4091"/>
@@ -76492,14 +76484,14 @@ Op.2, B. 307</b></text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Clef>
             <concertClefType>C4</concertClefType>
             <transposingClefType>C4</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -85915,14 +85907,14 @@ Op.2, B. 307</b></text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Clef>
             <concertClefType>C4</concertClefType>
             <transposingClefType>C4</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -86052,15 +86044,15 @@ Op.2, B. 307</b></text>
         </Measure>
       <Measure>
         <voice>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -92464,9 +92456,6 @@ Op.2, B. 307</b></text>
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <StaffText>
             <placement>below</placement>
             <offset x="0" y="13.5091"/>
