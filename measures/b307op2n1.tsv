@@ -197,8 +197,8 @@ mc	mn	keysig	timesig	act_dur	mc_offset	volta	numbering_offset	dont_count	barline
 196	194	3	4/4	1	0							197
 197	195	3	4/4	1	0							198
 198	196	3	4/4	1	0							199
-199	197	3	4/4	1	0						end	200
-200	198	0	6/8	1/8	0							201
+199	197	3	4/4	1	0					section	end	200, 200
+200	198	0	6/8	1/8	5/8							201
 201	199	0	6/8	3/4	0							202
 202	200	0	6/8	3/4	0							203
 203	201	0	6/8	3/4	0							204
@@ -207,7 +207,7 @@ mc	mn	keysig	timesig	act_dur	mc_offset	volta	numbering_offset	dont_count	barline
 206	204	0	6/8	3/4	0							207
 207	205	0	6/8	3/4	0							208
 208	206	0	6/8	3/4	0							209
-209	207	0	6/8	3/4	0					line		210
+209	207	0	6/8	3/4	0							210
 210	208	0	6/8	3/4	0							211
 211	209	0	6/8	3/4	0							212
 212	210	0	6/8	3/4	0							213
@@ -235,7 +235,7 @@ mc	mn	keysig	timesig	act_dur	mc_offset	volta	numbering_offset	dont_count	barline
 234	232	0	6/8	3/4	0							235
 235	233	0	6/8	3/4	0							236
 236	234	0	6/8	3/4	0							237
-237	235	0	6/8	3/4	0					line		238
+237	235	0	6/8	3/4	0							238
 238	236	0	6/8	3/4	0							239
 239	237	0	6/8	3/4	0							240
 240	238	0	6/8	3/4	0							241
@@ -260,7 +260,7 @@ mc	mn	keysig	timesig	act_dur	mc_offset	volta	numbering_offset	dont_count	barline
 259	257	0	6/8	3/4	0							260
 260	258	0	6/8	3/4	0							261
 261	259	0	6/8	3/4	0							262
-262	260	0	6/8	3/4	0					line		263
+262	260	0	6/8	3/4	0							263
 263	261	0	6/8	3/4	0							264
 264	262	0	6/8	3/4	0							265
 265	263	0	6/8	3/4	0							266
@@ -305,8 +305,8 @@ mc	mn	keysig	timesig	act_dur	mc_offset	volta	numbering_offset	dont_count	barline
 304	302	0	6/8	3/4	0							305
 305	303	0	6/8	3/4	0							306
 306	304	0	6/8	3/4	0							307
-307	305	0	6/8	3/4	0					line		308
-308	306	3	3/4	3/4	0				start-repeat		start	309
+307	305	0	6/8	3/4	0					section		308
+308	306	3	3/4	3/4	0							309
 309	307	3	3/4	3/4	0							310
 310	308	3	3/4	3/4	0							311
 311	309	3	3/4	3/4	0							312
@@ -326,7 +326,7 @@ mc	mn	keysig	timesig	act_dur	mc_offset	volta	numbering_offset	dont_count	barline
 325	323	3	3/4	3/4	0							326
 326	324	3	3/4	3/4	0							327, 328
 327	325	3	3/4	3/4	0	1					end	316
-328	325	3	3/4	3/4	0	2		1	end	page		329
+328	325	3	3/4	3/4	0	2		1	end	page & section		329
 329	326	3	3/4	1/4	0							330
 330	327	3	3/4	3/4	0						start	331
 331	328	3	3/4	3/4	0							332
@@ -356,8 +356,8 @@ mc	mn	keysig	timesig	act_dur	mc_offset	volta	numbering_offset	dont_count	barline
 355	352	3	3/4	3/4	0							356
 356	353	3	3/4	3/4	0							357, 358
 357	354	3	3/4	3/4	0	1					end	340
-358	354	3	3/4	3/4	0	2		1				359
-359	355	3	3/4	3/4	0						start	360
+358	354	3	3/4	3/4	0	2		1		section		359
+359	355	3	3/4	3/4	0							360
 360	356	3	3/4	3/4	0							361
 361	357	3	3/4	3/4	0							362
 362	358	3	3/4	3/4	0							363
