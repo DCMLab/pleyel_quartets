@@ -225,17 +225,20 @@
     <metaTag name="copyright">YDME2015012 (v. 1.0)</metaTag>
     <metaTag name="creationDate">2017-11-29</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/6_String_Quartets%2C_B.307-312_(Pleyel%2C_Ignaz)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle">QUARTETTO III</metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Adagio</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="viaf">http://viaf.org/viaf/315104256/#Pleyel,_Ignaz_1757-1831_|_Quartette_Violine_(2)_Viola_Violoncello_B_307-312_B_309_|_g-Moll</metaTag>
+    <metaTag name="workNumber">B.309 op. 2 no. 3</metaTag>
+    <metaTag name="workTitle">QUARTETTO III</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
