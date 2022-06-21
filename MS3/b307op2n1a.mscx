@@ -225,17 +225,20 @@
     <metaTag name="copyright">YDME2015012 (v. 1.0)</metaTag>
     <metaTag name="creationDate">2017-11-21</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/6_String_Quartets%2C_B.307-312_(Pleyel%2C_Ignaz)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle">QUARTETTO I</metaTag>
+    <metaTag name="movementNumber">1.0</metaTag>
+    <metaTag name="movementTitle">Allegro</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="viaf">http://viaf.org/viaf/315104251/#Pleyel,_Ignaz_1757-1831_|_Quartette_Violine_(2)_Viola_Violoncello_B_307-312_B_307_|_A-Dur</metaTag>
+    <metaTag name="workNumber">B.307 op. 2 no. 1</metaTag>
+    <metaTag name="workTitle">QUARTETTO I</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
