@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision></programRevision>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -1403,6 +1403,7 @@
           </voice>
         </Measure>
       <Measure len="1/4">
+        <irregular>1</irregular>
         <voice>
           <StaffText>
             <family>Sansation</family>
@@ -7422,8 +7423,7 @@
               </prev>
             </Spanner>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>1/4</duration>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -10773,8 +10773,7 @@
               </prev>
             </Spanner>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>1/4</duration>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -13740,8 +13739,7 @@
               </prev>
             </Spanner>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>1/4</duration>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
