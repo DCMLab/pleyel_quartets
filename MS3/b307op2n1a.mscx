@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -242,53 +242,162 @@
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
+          <name>stdNormal</name>
           </StaffType>
         <bracket type="0" span="4" col="0"/>
         <barLineSpan>3</barLineSpan>
         </Staff>
       <trackName>Violino primo</trackName>
-      <Instrument id="piano">
-        <longName>Violino primo</longName>
-        <shortName>Vln. pr.</shortName>
-        <trackName>ARIA Player</trackName>
-        <instrumentId>keyboard.piano</instrumentId>
-        <Channel>
-          <program value="0"/>
-          <controller ctrl="7" value="127"/>
-          <controller ctrl="10" value="17"/>
+      <Instrument id="violin">
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
+        <trackName>Violin</trackName>
+        <minPitchP>55</minPitchP>
+        <maxPitchP>103</maxPitchP>
+        <minPitchA>55</minPitchA>
+        <maxPitchA>88</maxPitchA>
+        <instrumentId>strings.violin</instrumentId>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>150</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="sforzatoStaccato">
+          <velocity>150</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoStaccato">
+          <velocity>120</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoTenuto">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Channel name="arco">
+          <program value="40"/>
           <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>0</midiChannel>
           </Channel>
-        <Channel name="harmony">
-          <program value="0"/>
-          <controller ctrl="7" value="127"/>
-          <controller ctrl="10" value="17"/>
+        <Channel name="pizzicato">
+          <program value="45"/>
           <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>1</midiChannel>
+          </Channel>
+        <Channel name="tremolo">
+          <program value="44"/>
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>6</midiChannel>
           </Channel>
         </Instrument>
       </Part>
     <Part>
       <Staff id="2">
         <StaffType group="pitched">
+          <name>stdNormal</name>
           </StaffType>
         <barLineSpan>2</barLineSpan>
         </Staff>
       <trackName>Violino secondo</trackName>
-      <Instrument id="piano">
-        <longName>Violino secondo</longName>
-        <shortName>Vln. sec.</shortName>
-        <trackName>ARIA Player</trackName>
-        <instrumentId>keyboard.piano</instrumentId>
-        <Channel>
-          <program value="0"/>
-          <controller ctrl="7" value="101"/>
-          <controller ctrl="10" value="22"/>
+      <Instrument id="violin">
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
+        <trackName>Violin</trackName>
+        <minPitchP>55</minPitchP>
+        <maxPitchP>103</maxPitchP>
+        <minPitchA>55</minPitchA>
+        <maxPitchA>88</maxPitchA>
+        <instrumentId>strings.violin</instrumentId>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>150</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="sforzatoStaccato">
+          <velocity>150</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoStaccato">
+          <velocity>120</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoTenuto">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Channel name="arco">
+          <program value="40"/>
           <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>2</midiChannel>
+          </Channel>
+        <Channel name="pizzicato">
+          <program value="45"/>
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>7</midiChannel>
+          </Channel>
+        <Channel name="tremolo">
+          <program value="44"/>
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>8</midiChannel>
           </Channel>
         </Instrument>
       </Part>
     <Part>
       <Staff id="3">
         <StaffType group="pitched">
+          <name>stdNormal</name>
           </StaffType>
         <defaultClef>C3</defaultClef>
         <barLineSpan>1</barLineSpan>
@@ -297,39 +406,154 @@
       <Instrument id="viola">
         <longName>Viola</longName>
         <shortName>Vla.</shortName>
-        <trackName>ARIA Player</trackName>
+        <trackName>Viola</trackName>
+        <minPitchP>48</minPitchP>
+        <maxPitchP>93</maxPitchP>
+        <minPitchA>48</minPitchA>
+        <maxPitchA>79</maxPitchA>
         <instrumentId>strings.viola</instrumentId>
-        <Channel>
-          <program value="0"/>
-          <controller ctrl="7" value="101"/>
-          <controller ctrl="10" value="32"/>
+        <clef>C3</clef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>150</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="sforzatoStaccato">
+          <velocity>150</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoStaccato">
+          <velocity>120</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoTenuto">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Channel name="arco">
+          <program value="41"/>
           <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>3</midiChannel>
+          </Channel>
+        <Channel name="pizzicato">
+          <program value="45"/>
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>10</midiChannel>
+          </Channel>
+        <Channel name="tremolo">
+          <program value="44"/>
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>11</midiChannel>
           </Channel>
         </Instrument>
       </Part>
     <Part>
       <Staff id="4">
         <StaffType group="pitched">
+          <name>stdNormal</name>
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Violoncelle</trackName>
       <Instrument id="violoncello">
-        <longName>Violoncelle</longName>
+        <longName>Violoncello</longName>
         <shortName>Vc.</shortName>
-        <trackName>ARIA Player</trackName>
+        <trackName>Violoncello</trackName>
+        <minPitchP>36</minPitchP>
+        <maxPitchP>90</maxPitchP>
+        <minPitchA>36</minPitchA>
+        <maxPitchA>67</maxPitchA>
         <instrumentId>strings.cello</instrumentId>
-        <Channel>
-          <program value="0"/>
-          <controller ctrl="7" value="101"/>
-          <controller ctrl="10" value="74"/>
+        <clef>F</clef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>150</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="sforzatoStaccato">
+          <velocity>150</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoStaccato">
+          <velocity>120</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoTenuto">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Channel name="arco">
+          <program value="42"/>
           <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>4</midiChannel>
+          </Channel>
+        <Channel name="pizzicato">
+          <program value="45"/>
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>5</midiChannel>
+          </Channel>
+        <Channel name="tremolo">
+          <program value="44"/>
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>12</midiChannel>
           </Channel>
         <Channel name="harmony">
           <program value="0"/>
-          <controller ctrl="7" value="101"/>
-          <controller ctrl="10" value="74"/>
           <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>13</midiChannel>
           </Channel>
         </Instrument>
       </Part>
