@@ -335,6 +335,7 @@
       </Part>
     <Staff id="1">
       <Measure len="1/8">
+        <irregular>1</irregular>
         <voice>
           <TimeSig>
             <sigN>6</sigN>
