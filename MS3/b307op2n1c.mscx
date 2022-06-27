@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -298,6 +298,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
@@ -311,6 +312,7 @@
           <midiChannel>1</midiChannel>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
@@ -377,6 +379,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
@@ -390,6 +393,7 @@
           <midiChannel>7</midiChannel>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
@@ -458,6 +462,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="41"/>
           <synti>Fluid</synti>
@@ -471,6 +476,7 @@
           <midiChannel>10</midiChannel>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
@@ -538,6 +544,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <synti>Fluid</synti>
@@ -551,6 +558,7 @@
           <midiChannel>5</midiChannel>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
@@ -1592,7 +1600,7 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <irregular>1</irregular>
         <LayoutBreak>
           <subtype>page</subtype>
@@ -1628,13 +1636,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            <span>1</span>
-            </BarLine>
           </voice>
         </Measure>
       <Measure len="1/4">
@@ -5064,7 +5065,7 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/4">
+      <Measure>
         <irregular>1</irregular>
         <LayoutBreak>
           <subtype>section</subtype>
@@ -5085,7 +5086,7 @@
               </Volta>
             <next>
               <location>
-                <measures>1</measures>
+                <fractions>1/2</fractions>
                 </location>
               </next>
             </Spanner>
@@ -5098,6 +5099,16 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <fractions>-1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -5114,13 +5125,6 @@
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
@@ -7600,7 +7604,7 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Spanner type="Volta">
             <prev>
@@ -7629,13 +7633,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            <span>1</span>
-            </BarLine>
           </voice>
         </Measure>
       <Measure len="1/4">
@@ -8568,7 +8565,7 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/4">
+      <Measure>
         <voice>
           <Spanner type="Volta">
             <prev>
@@ -8585,7 +8582,7 @@
               </Volta>
             <next>
               <location>
-                <measures>1</measures>
+                <fractions>1/2</fractions>
                 </location>
               </next>
             </Spanner>
@@ -8601,6 +8598,16 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <fractions>-1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -8610,13 +8617,6 @@
             <offset x="0" y="14.7091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
@@ -10949,7 +10949,7 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Spanner type="Volta">
             <prev>
@@ -10978,12 +10978,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure len="1/4">
@@ -11667,7 +11661,7 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="2/4">
+      <Measure>
         <voice>
           <Spanner type="Volta">
             <prev>
@@ -11684,7 +11678,7 @@
               </Volta>
             <next>
               <location>
-                <measures>1</measures>
+                <fractions>1/2</fractions>
                 </location>
               </next>
             </Spanner>
@@ -11700,6 +11694,16 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <fractions>-1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -11709,13 +11713,6 @@
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
@@ -13900,7 +13897,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -13942,12 +13939,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure len="1/4">
@@ -14873,7 +14864,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="2/4">
+      <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -14895,7 +14886,7 @@
               </Volta>
             <next>
               <location>
-                <measures>1</measures>
+                <fractions>1/2</fractions>
                 </location>
               </next>
             </Spanner>
@@ -14917,6 +14908,16 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <fractions>-1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -14931,13 +14932,6 @@
             <name>I</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
