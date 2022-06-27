@@ -218,8 +218,8 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1783</metaTag>
-    <metaTag name="composed_start">1782</metaTag>
+    <metaTag name="composed_end">1783.0</metaTag>
+    <metaTag name="composed_start">1782.0</metaTag>
     <metaTag name="composer">I. Pleyel
 </metaTag>
     <metaTag name="copyright">YDME2015012 (v. 1.0)</metaTag>
@@ -236,9 +236,9 @@
     <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="viaf">http://viaf.org/viaf/315104251/#Pleyel,_Ignaz_1757-1831_|_Quartette_Violine_(2)_Viola_Violoncello_B_307-312_B_307_|_A-Dur</metaTag>
+    <metaTag name="viaf">http://viaf.org/viaf/315104251</metaTag>
     <metaTag name="workNumber">B.307 op. 2 no. 1</metaTag>
-    <metaTag name="workTitle">QUARTETTO I</metaTag>
+    <metaTag name="workTitle">String Quartet in A major, B.307</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -4832,7 +4832,7 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <irregular>1</irregular>
         <LayoutBreak>
           <subtype>section</subtype>
@@ -4866,9 +4866,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -8339,7 +8336,7 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Spanner type="Volta">
             <prev>
@@ -8369,9 +8366,6 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -11441,7 +11435,7 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Spanner type="Volta">
             <prev>
@@ -11471,9 +11465,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -14650,7 +14641,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -14694,9 +14685,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
