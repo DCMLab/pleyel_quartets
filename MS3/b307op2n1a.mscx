@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision></programRevision>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -249,8 +249,8 @@
         </Staff>
       <trackName>Violino primo</trackName>
       <Instrument id="violin">
-        <longName>Violin</longName>
-        <shortName>Vln.</shortName>
+        <longName>Violino primo</longName>
+        <shortName>Vln. pr.</shortName>
         <trackName>Violin</trackName>
         <minPitchP>55</minPitchP>
         <maxPitchP>103</maxPitchP>
@@ -298,6 +298,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
@@ -310,6 +311,7 @@
           <midiChannel>1</midiChannel>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
@@ -326,8 +328,8 @@
         </Staff>
       <trackName>Violino secondo</trackName>
       <Instrument id="violin">
-        <longName>Violin</longName>
-        <shortName>Vln.</shortName>
+        <longName>Violino secondo</longName>
+        <shortName>Vln. sec.</shortName>
         <trackName>Violin</trackName>
         <minPitchP>55</minPitchP>
         <maxPitchP>103</maxPitchP>
@@ -375,6 +377,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
@@ -387,6 +390,7 @@
           <midiChannel>7</midiChannel>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
@@ -454,6 +458,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="32" value="17"/>
           <program value="41"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
@@ -466,6 +471,7 @@
           <midiChannel>10</midiChannel>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
@@ -482,7 +488,7 @@
         </Staff>
       <trackName>Violoncelle</trackName>
       <Instrument id="violoncello">
-        <longName>Violoncello</longName>
+        <longName>Violoncelle</longName>
         <shortName>Vc.</shortName>
         <trackName>Violoncello</trackName>
         <minPitchP>36</minPitchP>
@@ -532,6 +538,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="32" value="17"/>
           <program value="42"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
@@ -544,6 +551,7 @@
           <midiChannel>5</midiChannel>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
