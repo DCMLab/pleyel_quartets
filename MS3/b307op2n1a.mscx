@@ -220,8 +220,7 @@
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1783.0</metaTag>
     <metaTag name="composed_start">1782.0</metaTag>
-    <metaTag name="composer">I. Pleyel
-</metaTag>
+    <metaTag name="composer">Ignace Joseph Pleyel</metaTag>
     <metaTag name="copyright">YDME2015012 (v. 1.0)</metaTag>
     <metaTag name="creationDate">2017-11-21</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
@@ -230,6 +229,7 @@
     <metaTag name="movementNumber">1.0</metaTag>
     <metaTag name="movementTitle">Allegro</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="n_onset_positions">1604</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
