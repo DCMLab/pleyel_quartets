@@ -46740,11 +46740,6 @@
             <velocity>49</velocity>
             <offset x="0.329141" y="3.37361"/>
             </Dynamic>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            <offset x="0" y="-4.5"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -47807,10 +47802,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>@none</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -48441,7 +48432,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V(4)</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
