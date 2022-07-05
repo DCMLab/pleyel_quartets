@@ -24694,7 +24694,7 @@ Op.2, B. 309</b></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2</name>
+            <name>VI(64#2)</name>
             <offset x="-1" y="-4.5"/>
             </Harmony>
           <Chord>
