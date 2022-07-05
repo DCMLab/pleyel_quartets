@@ -28272,7 +28272,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(94)</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -28284,20 +28284,13 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-5/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>ii65</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -28309,16 +28302,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii65</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
