@@ -28835,7 +28835,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2(+b2)</name>
+            <name>V2(+2)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -28888,7 +28888,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2(+b2)</name>
+            <name>V2(+2)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
