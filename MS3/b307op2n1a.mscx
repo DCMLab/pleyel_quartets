@@ -48538,7 +48538,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(742)</name>
+            <name>I(9^74)</name>
             <offset x="0" y="-5.5"/>
             </Harmony>
           <Chord>
@@ -48643,7 +48643,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(742)</name>
+            <name>I(9^74)</name>
             <offset x="0" y="-5.5"/>
             </Harmony>
           <Chord>
@@ -49418,7 +49418,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>I</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -49472,6 +49472,10 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
@@ -49865,7 +49869,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>I</name>
             <offset x="-0.4" y="-6.5"/>
             </Harmony>
           <Rest>
