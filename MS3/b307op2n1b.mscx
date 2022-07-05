@@ -26246,7 +26246,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>II</name>
+            <name>II-V/V</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
