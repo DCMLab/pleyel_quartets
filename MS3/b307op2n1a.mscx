@@ -46402,7 +46402,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>bVI</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
