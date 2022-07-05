@@ -40700,10 +40700,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>1/1</duration>
@@ -41425,7 +41421,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>bVI</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
