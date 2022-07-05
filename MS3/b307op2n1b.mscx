@@ -25165,6 +25165,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III.I</name>
+            <offset x="0" y="-3.5"/>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/4</duration>
@@ -25180,7 +25185,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.V65/IV</name>
+            <name>V65/IV</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Beam>
