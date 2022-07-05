@@ -44661,7 +44661,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I]\\</name>
+            <name>I]|PAC}{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -44866,7 +44866,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i}{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -45340,7 +45340,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -45548,7 +45548,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(4)</name>
+            <name>I(4)}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -45567,11 +45567,15 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
@@ -45697,7 +45701,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -45733,6 +45737,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>1/1</duration>
@@ -46346,7 +46354,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|EC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -46715,7 +46723,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -46736,6 +46744,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -47293,7 +47305,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -47311,6 +47323,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -47896,7 +47912,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -48474,7 +48490,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -48490,7 +48506,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IV{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -48570,7 +48586,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC}</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -48595,7 +48611,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IV{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -48675,7 +48691,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC}</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -48700,7 +48716,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IV{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -48793,7 +48809,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -49012,7 +49028,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6{</name>
             <offset x="-0.149272" y="-3.83908"/>
             </Harmony>
           <Beam>
@@ -49336,7 +49352,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC}</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Beam>
@@ -49387,6 +49403,10 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -49673,7 +49693,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6\\</name>
+            <name>V6|HC}</name>
             <offset x="-2" y="-2.5"/>
             </Harmony>
           <Chord>
@@ -49697,7 +49717,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6{</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Rest>
@@ -49817,7 +49837,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(42)</name>
+            <name>I(42)}</name>
             <offset x="0" y="-5.5"/>
             </Harmony>
           <Rest>
@@ -49836,7 +49856,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|HC</name>
             <offset x="0" y="-5.5"/>
             </Harmony>
           <Chord>
@@ -49864,6 +49884,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -50063,7 +50087,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[I</name>
+            <name>I[I|PAC}</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Beam>
@@ -50108,7 +50132,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2</name>
+            <name>viio2{</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -50183,7 +50207,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -50199,7 +50223,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2</name>
+            <name>viio2{</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -50279,7 +50303,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I]\\</name>
+            <name>I]|PAC}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
