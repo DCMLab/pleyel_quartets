@@ -216,14 +216,14 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Adrian Nagel</metaTag>
+    <metaTag name="annotators">Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1783</metaTag>
     <metaTag name="composed_start">1782</metaTag>
     <metaTag name="composer">Ignace Joseph Pleyel</metaTag>
     <metaTag name="copyright">YDME2015012 (v. 1.0)</metaTag>
     <metaTag name="creationDate">2017-11-21</metaTag>
-    <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/6_String_Quartets%2C_B.307-312_(Pleyel%2C_Ignaz)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">1</metaTag>
@@ -232,6 +232,7 @@
     <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">DK</metaTag>
     <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -297,6 +298,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
@@ -310,6 +312,7 @@
           <midiChannel>1</midiChannel>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
@@ -376,6 +379,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
@@ -389,6 +393,7 @@
           <midiChannel>7</midiChannel>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
@@ -457,6 +462,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="41"/>
           <synti>Fluid</synti>
@@ -470,6 +476,7 @@
           <midiChannel>10</midiChannel>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
@@ -537,6 +544,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <synti>Fluid</synti>
@@ -550,6 +558,7 @@
           <midiChannel>5</midiChannel>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
