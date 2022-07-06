@@ -23962,7 +23962,7 @@ Op.2, B. 309</b></text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43\\</name>
+            <name>#viio43}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -24019,7 +24019,7 @@ Op.2, B. 309</b></text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i6{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -24102,7 +24102,7 @@ Op.2, B. 309</b></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -24125,7 +24125,7 @@ Op.2, B. 309</b></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64</name>
+            <name>iv64{</name>
             <offset x="-0.1" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -24313,7 +24313,7 @@ Op.2, B. 309</b></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>iv|PAC}{</name>
             <offset x="0.4" y="-2.5"/>
             </Harmony>
           <Chord>
@@ -24686,7 +24686,7 @@ Op.2, B. 309</b></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(64#2)</name>
+            <name>VI(64#2)}</name>
             <offset x="-1" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -24710,7 +24710,7 @@ Op.2, B. 309</b></text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI\\</name>
+            <name>VI|EC</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -24738,7 +24738,7 @@ Op.2, B. 309</b></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>iv{</name>
             </Harmony>
           <Rest>
             <durationType>half</durationType>
@@ -25118,7 +25118,7 @@ Op.2, B. 309</b></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI\\</name>
+            <name>I/VI|PAC}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -25134,6 +25134,10 @@ Op.2, B. 309</b></text>
             <velocity>101</velocity>
             <offset x="0.658281" y="3.87361"/>
             </Dynamic>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -25154,6 +25158,10 @@ Op.2, B. 309</b></text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -25324,7 +25332,7 @@ Op.2, B. 309</b></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|IAC}{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -25662,7 +25670,7 @@ Op.2, B. 309</b></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|IAC}{</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -25879,7 +25887,7 @@ Op.2, B. 309</b></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|PAC}{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -26253,7 +26261,7 @@ Op.2, B. 309</b></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(#742)</name>
+            <name>i(#742)}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -26275,7 +26283,7 @@ Op.2, B. 309</b></text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
