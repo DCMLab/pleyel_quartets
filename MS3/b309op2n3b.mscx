@@ -53411,7 +53411,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(+4)</name>
+            <name>IV(^4)</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -53437,7 +53437,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(+7)</name>
+            <name>I6(^7)</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -53502,7 +53502,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(+4)</name>
+            <name>IV(^4)</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -53528,7 +53528,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(+7)</name>
+            <name>I6(^7)</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
