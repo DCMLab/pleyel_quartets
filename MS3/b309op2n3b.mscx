@@ -58302,7 +58302,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>VI(0)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -58354,6 +58354,10 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
@@ -58379,7 +58383,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65(4)/V</name>
+            <name>ii%43</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -58476,7 +58480,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(+#7)</name>
+            <name>V(#0)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -58572,7 +58576,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1/4</fractions>
+            <fractions>-3/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -58685,7 +58689,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(+#7)</name>
+            <name>iv(#0)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
