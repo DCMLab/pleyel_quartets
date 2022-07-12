@@ -50734,7 +50734,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(+#7)</name>
+            <name>V7(#0)</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Rest>
@@ -50804,7 +50804,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(+#764)</name>
+            <name>V(64#0)</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Rest>
@@ -50865,7 +50865,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(+#7)</name>
+            <name>V7(#0)</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Rest>
@@ -50928,7 +50928,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(+#7)</name>
+            <name>V7(#0)</name>
+            <offset x="0" y="-3.5"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
