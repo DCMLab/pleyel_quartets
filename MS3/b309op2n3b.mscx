@@ -60077,34 +60077,13 @@
             <durationType>measure</durationType>
             <duration>1/1</duration>
             </Rest>
-          <location>
-            <fractions>-3/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i64</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio(2)</name>
+            <name>iio(+2)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -60123,7 +60102,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(2)</name>
+            <name>i(+2)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -60240,10 +60219,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -60321,10 +60296,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -60533,10 +60504,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -60745,10 +60712,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -60844,10 +60807,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -60870,10 +60829,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i64</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -60913,10 +60868,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -60948,7 +60899,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio(2)</name>
+            <name>iio(+2)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -61086,7 +61037,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(2)</name>
+            <name>i(+2)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -61378,10 +61329,6 @@
             <velocity>101</velocity>
             <offset x="0.658281" y="2.87361"/>
             </Dynamic>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>@none</name>
-            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -61413,6 +61360,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -61533,10 +61484,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>@none</name>
-            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -61568,6 +61515,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -61695,7 +61646,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(+#4)</name>
+            <name>iv(#4)</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -61732,7 +61683,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(+#7)</name>
+            <name>i6(#7)</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -61805,7 +61756,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(+#4)</name>
+            <name>iv(#4)</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -61842,8 +61793,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(+#7)</name>
-            <offset x="0" y="-3.5"/>
+            <name>i6(#7)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -61992,17 +61942,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -62017,10 +61959,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
