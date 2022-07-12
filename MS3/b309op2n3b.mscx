@@ -50292,10 +50292,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -50690,7 +50686,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(+#2)</name>
+            <name>I64(#2)</name>
             </Harmony>
           <location>
             <fractions>3/8</fractions>
@@ -50705,7 +50701,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(+#2)</name>
+            <name>IV(#2)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -50723,7 +50719,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(+#4)</name>
+            <name>I6(#4)</name>
             </Harmony>
           <location>
             <fractions>3/8</fractions>
