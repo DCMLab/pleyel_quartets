@@ -52621,10 +52621,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I6</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -52647,10 +52643,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I64</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -52687,10 +52679,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -52719,7 +52707,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(2)</name>
+            <name>ii(+2)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -52847,7 +52835,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(2)</name>
+            <name>I(+2)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
