@@ -51954,7 +51954,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(2)</name>
+            <name>I(+2)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
