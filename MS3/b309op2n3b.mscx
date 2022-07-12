@@ -48688,7 +48688,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>@none</name>
+            <name>V</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
