@@ -14589,7 +14589,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(2)</name>
+            <name>iv(^2)</name>
             <offset x="-1" y="-3.5"/>
             </Harmony>
           <Chord>
