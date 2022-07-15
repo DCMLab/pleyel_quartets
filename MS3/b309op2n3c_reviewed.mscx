@@ -13563,6 +13563,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Ger6/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Ger6</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Rest>
@@ -13598,6 +13604,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>It6/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>It6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15287,6 +15299,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iiio</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iio/ii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
