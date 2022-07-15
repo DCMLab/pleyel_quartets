@@ -232,7 +232,7 @@
     <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">DK, AN</metaTag>
+    <metaTag name="reviewers">DK</metaTag>
     <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -13483,7 +13483,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/V</name>
+            <name>Ger6</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Rest>
@@ -13518,7 +13518,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>It6/V</name>
+            <name>It6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
