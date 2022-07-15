@@ -44090,6 +44090,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I.I6{</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
