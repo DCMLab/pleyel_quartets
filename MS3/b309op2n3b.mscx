@@ -53597,7 +53597,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -53614,7 +53614,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43</name>
+            <name>V7</name>
             <offset x="-1" y="-3.5"/>
             </Harmony>
           </voice>
@@ -53637,7 +53637,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -53654,7 +53654,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43</name>
+            <name>V7</name>
             <offset x="-1" y="-3.5"/>
             </Harmony>
           </voice>
