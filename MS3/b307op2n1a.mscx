@@ -45105,7 +45105,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi(9)</name>
+            <name>i(9)/vi</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -45143,7 +45143,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65/III</name>
+            <name>Ger6/vi</name>
             <offset x="-1" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -45181,7 +45181,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III[V/vi</name>
+            <name>V/vi[V/vi</name>
             <offset x="-0.2" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -45205,7 +45205,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi64</name>
+            <name>V(64)/vi</name>
             <offset x="-0.4" y="-3.5"/>
             </Harmony>
           <location>
@@ -45213,7 +45213,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2/III</name>
+            <name>viio2/V/vi-Ger2/vi</name>
             <offset x="-0.1" y="-6.5"/>
             </Harmony>
           </voice>
@@ -45222,7 +45222,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>V/vi</name>
             <offset x="-0.6" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -45246,7 +45246,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi64</name>
+            <name>V(64)/vi</name>
             <offset x="-0.4" y="-3.5"/>
             </Harmony>
           <location>
@@ -45254,7 +45254,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2/III</name>
+            <name>viio2/V/vi-Ger2/vi</name>
             <offset x="-0.1" y="-6.5"/>
             </Harmony>
           </voice>
@@ -45263,7 +45263,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>V/vi</name>
             <offset x="-0.6" y="-3.5"/>
             </Harmony>
           <Chord>
