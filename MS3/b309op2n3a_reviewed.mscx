@@ -232,7 +232,7 @@
     <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">DK</metaTag>
+    <metaTag name="reviewers">DK, AN</metaTag>
     <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -20698,6 +20698,12 @@ Op.2, B. 309</b></text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -21083,6 +21089,12 @@ Op.2, B. 309</b></text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Ger6/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Ger6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -21103,6 +21115,12 @@ Op.2, B. 309</b></text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>It6/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>It6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -23254,6 +23272,12 @@ Op.2, B. 309</b></text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>It6/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>It6</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-2" y="-2.5"/>
             </Harmony>
           <Chord>
@@ -23641,6 +23665,12 @@ Op.2, B. 309</b></text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Ger6/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Ger6</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -24262,7 +24292,7 @@ Op.2, B. 309</b></text>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}</name>
+            <name>i[i|PAC}</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -24291,7 +24321,7 @@ Op.2, B. 309</b></text>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64{</name>
+            <name>iv6{</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.1" y="-4.5"/>
             </Harmony>
@@ -24335,6 +24365,12 @@ Op.2, B. 309</b></text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv64(11)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv(11)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -24386,6 +24422,12 @@ Op.2, B. 309</b></text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv6</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.1" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -24428,6 +24470,12 @@ Op.2, B. 309</b></text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv64(11)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv(11)</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -24473,6 +24521,12 @@ Op.2, B. 309</b></text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7/iv]</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
