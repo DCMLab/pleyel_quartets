@@ -15126,7 +15126,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iiio</name>
+            <name>iio/ii</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
