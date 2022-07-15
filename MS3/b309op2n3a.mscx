@@ -21063,7 +21063,7 @@ Op.2, B. 309</b></text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/V</name>
+            <name>Ger6</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -21083,7 +21083,7 @@ Op.2, B. 309</b></text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>It6/V</name>
+            <name>It6</name>
             </Harmony>
           </voice>
         </Measure>
