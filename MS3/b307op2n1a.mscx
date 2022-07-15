@@ -49829,7 +49829,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(42)}</name>
+            <name>I(94)}</name>
             <offset x="0" y="-5.5"/>
             </Harmony>
           <Rest>
@@ -49848,7 +49848,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|HC</name>
+            <name>I|IAC</name>
             <offset x="0" y="-5.5"/>
             </Harmony>
           <Chord>
@@ -49887,11 +49887,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            <offset x="-0.4" y="-6.5"/>
-            </Harmony>
           <Rest>
             <durationType>half</durationType>
             </Rest>
