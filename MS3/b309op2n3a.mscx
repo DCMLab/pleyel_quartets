@@ -24102,7 +24102,7 @@ Op.2, B. 309</b></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}</name>
+            <name>i[i|PAC}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -24125,7 +24125,7 @@ Op.2, B. 309</b></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64{</name>
+            <name>iv6{</name>
             <offset x="-0.1" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -24167,7 +24167,7 @@ Op.2, B. 309</b></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64(11)</name>
+            <name>iv(11)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -24218,7 +24218,7 @@ Op.2, B. 309</b></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64</name>
+            <name>iv6</name>
             <offset x="-0.1" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -24260,7 +24260,7 @@ Op.2, B. 309</b></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64(11)</name>
+            <name>iv(11)</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -24305,7 +24305,7 @@ Op.2, B. 309</b></text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iv</name>
+            <name>V7/iv]</name>
             </Harmony>
           </voice>
         </Measure>
