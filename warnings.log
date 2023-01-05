@@ -1,0 +1,51 @@
+Warnings encountered during the last execution of ms3 review (v1.0.4)
+=====================================================================
+
+ERROR    ms3.Parse.pleyel_quartets.b307op2n1a -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 478) end_section():
+	No starting point for the repeatEnd in MC 199 could be determined. It is being ignored.
+ERROR    ms3.Parse.pleyel_quartets.b307op2n1c -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 478) end_section():
+	No starting point for the repeatEnd in MC 32 could be determined. It is being ignored.
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.pleyel_quartets.b307op2n1c -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4940) check_phrase_annotations():
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            5a         {             4a         }
+	            5b         {             8a         }
+	            9a         {             4b         }
+	           13a         {             8b         }
+	           17a         {            12a         }
+	            9b         {            16a         }
+	           13b         {            20a         }
+	           17b         {            12b         }
+	           20b         {            16b         }
+	           24a         {            20b         }
+	           30a         {            24a         }
+	           38a         {            30a         }
+	           42a         {            38a         }
+	           48a         {            42a         }
+	           38b         {            48a         }
+	           42b         {            38b         }
+	           49a         {            42b         }
+	           53a         {            48b         }
+	           49b         {            52a         }
+	           53b         {            56a         }
+	           57a         {            52b         }
+	           61a         {            56b         }
+	           65a         {            60a         }
+	           69a         {            64a         }
+	           71a         {            68a         }
+	           72a         {            70a         }
+	           57b         {            72a         }
+	           61b         {            77a         }
+	           65b         {            60b         }
+	           69b         {            64b         }
+	           71b         {            68b         }
+	           72b         {            70b         }
+	           NaN       NaN            72b         }
+	           NaN       NaN            77b         }
+Chord labels where the ratio of colored notes vs. all notes in a segment lies above 0.6:
+                                     mc  mn mc_onset     label  chord_tones added_tones  n_colored  n_untouched  count_ratio
+pleyel_quartets MS3/b307op2n1c.mscx   6   6      1/4  #viio/vi   (11, 8, 5)          ()          2            1     0.666667
+                MS3/b307op2n1c.mscx  18  18      1/4  #viio/vi   (11, 8, 5)          ()          2            1     0.666667
+                MS3/b307op2n1c.mscx  58  54      1/4  #viio/vi   (11, 8, 5)          ()          2            1     0.666667
+                MS3/b307op2n1c.mscx  70  66        0  #viio/vi   (11, 8, 5)          ()          7            3     0.700000
+                MS3/b309op2n3a.mscx  67  67      1/2    V(642)  (-3, 1, -2)          ()          2            1     0.666667
