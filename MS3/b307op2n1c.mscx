@@ -7,18 +7,11 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.26597</pageWidth>
-      <pageHeight>11.6939</pageHeight>
-      <pagePrintableWidth>7.26376</pagePrintableWidth>
-      <pageEvenLeftMargin>0.501104</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.501104</pageOddLeftMargin>
-      <pageEvenTopMargin>0.501104</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.501104</pageEvenBottomMargin>
-      <pageOddTopMargin>0.501104</pageOddTopMargin>
-      <pageOddBottomMargin>0.501104</pageOddBottomMargin>
-      <pageTwosided>0</pageTwosided>
+      <pageWidth>8.5</pageWidth>
+      <pageHeight>11</pageHeight>
+      <pageEvenLeftMargin>0.822835</pageEvenLeftMargin>
       <enableVerticalSpread>1</enableVerticalSpread>
-      <Spatium>1.12637</Spatium>
+      <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -388,7 +381,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>20.5941</height>
+        <height>15.7065</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -417,8 +410,6 @@
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Menuetto</b></text>
             </StaffText>
           <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
           <StaffText>
@@ -4945,8 +4936,6 @@
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Menuetto</b></text>
             </StaffText>
           <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
           <Chord>
@@ -6398,8 +6387,6 @@
             <sigD>4</sigD>
             </TimeSig>
           <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="14.5091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
           <StaffText>
@@ -8437,8 +8424,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="14.7091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
           <Chord>
@@ -9805,8 +9790,6 @@
             <sigD>4</sigD>
             </TimeSig>
           <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="15.4091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
           <StaffText>
@@ -11533,8 +11516,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
           <Chord>
@@ -12834,8 +12815,6 @@
             <sigD>4</sigD>
             </TimeSig>
           <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
           <Harmony>
@@ -14767,8 +14746,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
           <Harmony>
