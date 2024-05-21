@@ -617,6 +617,12 @@
           <StaffText>
             <text><font size="6.4"></font><i>senza sordini</i></text>
             </StaffText>
+          <Tempo>
+            <tempo>2.3000000000000003</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 46</b></text>
+            </Tempo>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>

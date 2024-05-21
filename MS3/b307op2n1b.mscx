@@ -615,6 +615,12 @@
           <StaffText>
             <text><font size="6.4"></font><i>con sordini</i></text>
             </StaffText>
+          <Tempo>
+            <tempo>1.3</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 52</b></text>
+            </Tempo>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>

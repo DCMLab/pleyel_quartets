@@ -616,6 +616,12 @@
             <family>Sansation</family>
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Allegro</b></text>
             </StaffText>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 120</b></text>
+            </Tempo>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -1056,15 +1062,11 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.329141" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"/></text>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -1142,15 +1144,11 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.329141" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -19194,15 +19192,11 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.329141" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -19277,15 +19271,11 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.329141" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -30192,15 +30182,11 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.329141" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -30270,15 +30256,11 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.329141" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -40028,20 +40010,16 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>88</velocity>
-            <offset x="0.329141" y="3.37361"/>
-            </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
             </Harmony>
+          <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <velocity>88</velocity>
+            <offset x="0.329141" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
+            </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
@@ -40118,20 +40096,16 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>88</velocity>
-            <offset x="0.329141" y="3.37361"/>
-            </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
             </Harmony>
+          <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <velocity>88</velocity>
+            <offset x="0.329141" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
+            </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
