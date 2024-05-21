@@ -17,199 +17,7 @@
       <pageOddTopMargin>0.501104</pageOddTopMargin>
       <pageOddBottomMargin>0.501104</pageOddBottomMargin>
       <pageTwosided>0</pageTwosided>
-      <staffDistance>10.4</staffDistance>
-      <minSystemDistance>20.1</minSystemDistance>
-      <lyricsMinDistance>0.25</lyricsMinDistance>
-      <lyricsDashForce>0</lyricsDashForce>
-      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
-      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
-      <lyricsOddFontSize>10</lyricsOddFontSize>
-      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
-      <lyricsEvenFontSize>10</lyricsEvenFontSize>
-      <barWidth>0.18</barWidth>
-      <doubleBarWidth>0.18</doubleBarWidth>
-      <endBarWidth>0.55</endBarWidth>
-      <doubleBarDistance>0.55</doubleBarDistance>
-      <endBarDistance>0.7</endBarDistance>
-      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
-      <bracketWidth>0.44</bracketWidth>
-      <clefLeftMargin>0.64</clefLeftMargin>
-      <clefKeyRightMargin>1.75</clefKeyRightMargin>
-      <stemWidth>0.11</stemWidth>
-      <barNoteDistance>1.2</barNoteDistance>
-      <staffLineWidth>0.11</staffLineWidth>
-      <ledgerLineLength>0.35</ledgerLineLength>
-      <hairpinWidth>0.12</hairpinWidth>
-      <hairpinFontFace>Edwin</hairpinFontFace>
-      <hairpinFontSize>10</hairpinFontSize>
-      <hairpinFramePadding>0</hairpinFramePadding>
-      <hairpinFrameWidth>0</hairpinFrameWidth>
-      <pedalLineWidth>0.11</pedalLineWidth>
-      <pedalFontFace>Edwin</pedalFontFace>
-      <pedalFramePadding>0</pedalFramePadding>
-      <pedalFrameWidth>0</pedalFrameWidth>
-      <harmonyFretDist>0.5</harmonyFretDist>
-      <harmonyPlay>0</harmonyPlay>
-      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
-      <chordSymbolAFontSize>11</chordSymbolAFontSize>
-      <chordSymbolAFramePadding>0</chordSymbolAFramePadding>
-      <chordSymbolAFrameWidth>0</chordSymbolAFrameWidth>
-      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
-      <chordSymbolBFontSize>11</chordSymbolBFontSize>
-      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
-      <slurMidWidth>0.21</slurMidWidth>
-      <musicalSymbolFont>Leland</musicalSymbolFont>
-      <musicalTextFont>Leland Text</musicalTextFont>
-      <voltaLineWidth>0.11</voltaLineWidth>
-      <voltaFontFace>Sansation</voltaFontFace>
-      <voltaFramePadding>0</voltaFramePadding>
-      <voltaFrameWidth>0</voltaFrameWidth>
-      <ottavaLineWidth>0.11</ottavaLineWidth>
-      <ottavaFontFace>Edwin</ottavaFontFace>
-      <ottavaFontStyle>2</ottavaFontStyle>
-      <ottavaFramePadding>0</ottavaFramePadding>
-      <ottavaFrameWidth>0</ottavaFrameWidth>
-      <tupletFontFace>Edwin</tupletFontFace>
-      <tupletFontSize>9</tupletFontSize>
-      <tupletFramePadding>0</tupletFramePadding>
-      <tupletFrameWidth>0</tupletFrameWidth>
-      <textLineFramePadding>0</textLineFramePadding>
-      <textLineFrameWidth>0</textLineFrameWidth>
-      <defaultFontFace>Edwin</defaultFontFace>
-      <defaultFramePadding>0.5</defaultFramePadding>
-      <defaultFrameWidth>0.2</defaultFrameWidth>
-      <defaultFrameRound>25</defaultFrameRound>
-      <titleFontFace>Edwin</titleFontFace>
-      <titleFontSize>22</titleFontSize>
-      <titleFramePadding>0</titleFramePadding>
-      <titleFrameWidth>0</titleFrameWidth>
-      <titleFrameRound>25</titleFrameRound>
-      <subTitleFontFace>Edwin</subTitleFontFace>
-      <subTitleFontSize>16</subTitleFontSize>
-      <subTitleFramePadding>0</subTitleFramePadding>
-      <subTitleFrameWidth>0</subTitleFrameWidth>
-      <subTitleFrameRound>25</subTitleFrameRound>
-      <composerFontFace>Edwin</composerFontFace>
-      <composerFontSize>10</composerFontSize>
-      <composerFramePadding>0</composerFramePadding>
-      <composerFrameWidth>0</composerFrameWidth>
-      <composerFrameRound>25</composerFrameRound>
-      <lyricistFontFace>Edwin</lyricistFontFace>
-      <lyricistFontSize>10</lyricistFontSize>
-      <lyricistFramePadding>0</lyricistFramePadding>
-      <lyricistFrameWidth>0</lyricistFrameWidth>
-      <lyricistFrameRound>25</lyricistFrameRound>
-      <fingeringFontFace>Edwin</fingeringFontFace>
-      <fingeringFramePadding>0</fingeringFramePadding>
-      <fingeringFrameWidth>0</fingeringFrameWidth>
-      <fingeringFrameRound>25</fingeringFrameRound>
-      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
-      <lhGuitarFingeringFramePadding>0</lhGuitarFingeringFramePadding>
-      <lhGuitarFingeringFrameWidth>0</lhGuitarFingeringFrameWidth>
-      <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
-      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
-      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
-      <rhGuitarFingeringFramePadding>0</rhGuitarFingeringFramePadding>
-      <rhGuitarFingeringFrameWidth>0</rhGuitarFingeringFrameWidth>
-      <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
-      <stringNumberFontFace>Edwin</stringNumberFontFace>
-      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
-      <longInstrumentFontSize>10</longInstrumentFontSize>
-      <longInstrumentFramePadding>0</longInstrumentFramePadding>
-      <longInstrumentFrameWidth>0</longInstrumentFrameWidth>
-      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
-      <shortInstrumentFontSize>10</shortInstrumentFontSize>
-      <shortInstrumentFramePadding>0</shortInstrumentFramePadding>
-      <shortInstrumentFrameWidth>0</shortInstrumentFrameWidth>
-      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
-      <partInstrumentFontSize>14</partInstrumentFontSize>
-      <partInstrumentFramePadding>0</partInstrumentFramePadding>
-      <partInstrumentFrameWidth>0</partInstrumentFrameWidth>
-      <partInstrumentFrameRound>25</partInstrumentFrameRound>
-      <dynamicsFontFace>Edwin</dynamicsFontFace>
-      <dynamicsFontSize>11</dynamicsFontSize>
-      <dynamicsFramePadding>0</dynamicsFramePadding>
-      <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontFace>Edwin</expressionFontFace>
-      <expressionFontSize>10</expressionFontSize>
-      <expressionFramePadding>0</expressionFramePadding>
-      <expressionFrameWidth>0</expressionFrameWidth>
-      <tempoFontFace>Edwin</tempoFontFace>
-      <tempoFontSize>4.8</tempoFontSize>
-      <tempoFramePadding>0</tempoFramePadding>
-      <tempoFrameWidth>0</tempoFrameWidth>
-      <tempoFrameRound>25</tempoFrameRound>
-      <metronomeFontFace>Edwin</metronomeFontFace>
-      <metronomeFontSize>4.8</metronomeFontSize>
-      <metronomeFontStyle>0</metronomeFontStyle>
-      <metronomeFramePadding>0</metronomeFramePadding>
-      <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberFontFace>Edwin</measureNumberFontFace>
-      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
-      <measureNumberFontStyle>2</measureNumberFontStyle>
-      <measureNumberFramePadding>0</measureNumberFramePadding>
-      <measureNumberFrameWidth>0</measureNumberFrameWidth>
-      <translatorFontFace>Edwin</translatorFontFace>
-      <translatorFontSize>10</translatorFontSize>
-      <translatorAlign>center,top</translatorAlign>
-      <translatorFramePadding>0</translatorFramePadding>
-      <translatorFrameWidth>0</translatorFrameWidth>
-      <systemFontFace>Edwin</systemFontFace>
-      <systemFontSize>4.8</systemFontSize>
-      <systemAlign>left,top</systemAlign>
-      <systemFramePadding>0</systemFramePadding>
-      <systemFrameWidth>0</systemFrameWidth>
-      <systemFrameRound>25</systemFrameRound>
-      <staffFontFace>Edwin</staffFontFace>
-      <staffFontSize>4.8</staffFontSize>
-      <staffAlign>left,top</staffAlign>
-      <staffPosAbove x="0" y="-4"/>
-      <staffFramePadding>0</staffFramePadding>
-      <staffFrameWidth>0</staffFrameWidth>
-      <staffFrameRound>25</staffFrameRound>
-      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
-      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
-      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
-      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
-      <repeatLeftFontSize>18</repeatLeftFontSize>
-      <repeatLeftFramePadding>0</repeatLeftFramePadding>
-      <repeatLeftFrameWidth>0</repeatLeftFrameWidth>
-      <repeatLeftFrameRound>25</repeatLeftFrameRound>
-      <repeatRightFontFace>Edwin</repeatRightFontFace>
-      <repeatRightFontSize>11</repeatRightFontSize>
-      <repeatRightFramePadding>0</repeatRightFramePadding>
-      <repeatRightFrameWidth>0</repeatRightFrameWidth>
-      <repeatRightFrameRound>25</repeatRightFrameRound>
-      <frameFontFace>Edwin</frameFontFace>
-      <frameFontSize>10</frameFontSize>
-      <frameFramePadding>0</frameFramePadding>
-      <frameFrameWidth>0</frameFrameWidth>
-      <textLineFontFace>Sansation</textLineFontFace>
-      <textLineFontSize>4.8</textLineFontSize>
-      <glissandoFontFace>Sansation</glissandoFontFace>
-      <glissandoFontSize>4.8</glissandoFontSize>
-      <glissandoAlign>center,baseline</glissandoAlign>
-      <glissandoFramePadding>0</glissandoFramePadding>
-      <glissandoFrameWidth>0</glissandoFrameWidth>
-      <bendFontFace>Sansation</bendFontFace>
-      <bendAlign>center,bottom</bendAlign>
-      <bendFramePadding>0</bendFramePadding>
-      <bendFrameWidth>0</bendFrameWidth>
-      <headerFontFace>Sansation</headerFontFace>
-      <headerAlign>center,top</headerAlign>
-      <headerFramePadding>0</headerFramePadding>
-      <headerFrameWidth>0</headerFrameWidth>
-      <footerFontFace>Sansation</footerFontFace>
-      <footerAlign>center,bottom</footerAlign>
-      <footerFramePadding>0</footerFramePadding>
-      <footerFrameWidth>0</footerFrameWidth>
-      <instrumentChangeFontFace>Sansation</instrumentChangeFontFace>
-      <instrumentChangeFontSize>4.8</instrumentChangeFontSize>
-      <instrumentChangeAlign>left,bottom</instrumentChangeAlign>
-      <instrumentChangeFramePadding>0</instrumentChangeFramePadding>
-      <instrumentChangeFrameWidth>0</instrumentChangeFrameWidth>
-      <usePre_3_6_defaults>1</usePre_3_6_defaults>
-      <defaultsVersion>301</defaultsVersion>
+      <enableVerticalSpread>1</enableVerticalSpread>
       <Spatium>1.12637</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -604,6 +412,7 @@
             </TimeSig>
           <StaffText>
             <family>Sansation</family>
+            <size>4.8</size>
             <offset x="-0.534309" y="-13.4397"/>
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Andante Grazioso</b></text>
             </StaffText>
@@ -613,6 +422,7 @@
             <offset x="0.329141" y="2.97361"/>
             </Dynamic>
           <StaffText>
+            <size>4.8</size>
             <text><font size="6.4"></font><i>con sordini</i></text>
             </StaffText>
           <Tempo>
@@ -1259,6 +1069,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="13.7091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -2070,6 +1881,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -2148,6 +1960,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -2594,6 +2407,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -2887,6 +2701,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -3557,6 +3372,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -3810,6 +3626,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -4319,6 +4136,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -4637,6 +4455,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -6590,6 +6409,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -6668,6 +6488,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -6750,6 +6571,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -7472,6 +7294,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -8154,6 +7977,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -8410,6 +8234,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -8887,6 +8712,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -9091,6 +8917,7 @@
             <offset x="0.329141" y="3.37361"/>
             </Dynamic>
           <StaffText>
+            <size>4.8</size>
             <text><font size="6.4"></font><i>con sordini</i></text>
             </StaffText>
           <Chord>
@@ -9501,6 +9328,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="14.3091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -10426,6 +10254,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -10504,6 +10333,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -10954,6 +10784,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="16.7091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -11322,6 +11153,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -11678,6 +11510,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -12041,6 +11874,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -12748,6 +12582,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -13318,6 +13153,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -15005,6 +14841,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -15083,6 +14920,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -15165,6 +15003,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -15569,6 +15408,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -15976,6 +15816,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -16271,6 +16112,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -16769,6 +16611,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -16943,6 +16786,7 @@
       <Measure>
         <voice>
           <StaffText>
+            <size>4.8</size>
             <text><font size="6.4"></font><i>con sordini</i></text>
             </StaffText>
           <Rest>
@@ -17376,6 +17220,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="14.0091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -18316,6 +18161,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -18394,6 +18240,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -18903,6 +18750,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -19247,6 +19095,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -19610,6 +19459,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -20305,6 +20155,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -20881,6 +20732,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -22470,6 +22322,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -22548,6 +22401,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -22630,6 +22484,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -23409,6 +23264,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -23809,6 +23665,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -24110,6 +23967,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -24563,6 +24421,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -25207,6 +25066,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="13.8091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -25733,6 +25593,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -25774,6 +25635,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -26024,6 +25886,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><i><font size="6.4"></font>cresc.</i></text>
             </StaffText>
@@ -26359,6 +26222,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -26738,6 +26602,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -27215,6 +27080,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -27325,6 +27191,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -28688,6 +28555,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -28714,6 +28582,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -28740,6 +28609,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -29292,6 +29162,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -30083,6 +29954,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
+            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>

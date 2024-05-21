@@ -38,6 +38,15 @@
         }
       },
       {
+        "name": "quarterbeats_all_endings",
+        "title": "Offset from Beginning (Including Endings)",
+        "description": "Distance from the piece's beginning, taking all endings into account for addressability purposes.",
+        "type": "string",
+        "constraints": {
+          "pattern": "\\d+(?:\\/\\d+)?"
+        }
+      },
+      {
         "name": "duration_qb",
         "title": "Duration in \u2669",
         "description": "A float corresponding to duration * 4",
@@ -159,19 +168,20 @@
       }
     ],
     "facet": "notes",
-    "identifier": "oQPAvdX2XGGQCQ",
-    "filepath": "notes/oQPAvdX2XGGQCQ.schema.yaml"
+    "identifier": "HdcotfcCVtLDNw",
+    "filepath": "notes/HdcotfcCVtLDNw.schema.yaml",
+    "used_in": "b307op2n1a"
   },
   "creator": {
     "@context": "https://schema.org/",
     "@type": "SoftwareApplication",
-    "@id": "https://github.com/johentsch/ms3",
+    "@id": "https://pypi.org/project/ms3/",
     "name": "ms3",
     "description": "A parser for MuseScore 3 files and data factory for annotated music corpora.",
     "author": {
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.1.0"
+    "softwareVersion": "2.4.0"
   }
 }
