@@ -421,8 +421,6 @@
             <offset x="0.658281" y="2.67361"/>
             </Dynamic>
           <StaffText>
-            <family>Sansation</family>
-            <size>4.8</size>
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Allegro</b></text>
             </StaffText>
           <Tempo>
@@ -911,9 +909,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Spanner type="HairPin">
             <prev>
@@ -1238,9 +1233,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>half</durationType>
@@ -1579,9 +1571,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -2667,9 +2656,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -3128,9 +3114,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3735,9 +3718,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>fp</subtype>
@@ -5656,7 +5636,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -7473,9 +7452,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7925,9 +7901,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>half</durationType>
@@ -8449,9 +8422,6 @@
         </Measure>
       <Measure>
         <endRepeat>2</endRepeat>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Spanner type="Volta">
             <Volta>
@@ -9868,7 +9838,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>perdendosi</i></text>
             </StaffText>
@@ -10059,9 +10028,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -10464,9 +10430,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -11348,9 +11311,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11915,9 +11875,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>fz</subtype>
@@ -13771,7 +13728,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -13813,9 +13769,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -14335,9 +14288,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15055,9 +15005,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -16436,9 +16383,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -17069,9 +17013,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -21993,7 +21934,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -24184,7 +24124,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="14.9091"/>
             <text><font size="6.4"></font><i>perdendosi</i></text>
             </StaffText>
@@ -26969,7 +26908,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -32315,7 +32253,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -34239,7 +34176,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>perdendosi</i></text>
             </StaffText>
@@ -36370,7 +36306,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="15.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -42662,7 +42597,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -45112,7 +45046,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>perdendosi</i></text>
             </StaffText>
@@ -47668,7 +47601,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>

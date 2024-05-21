@@ -392,7 +392,6 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Lyricist</style>
-          <size>4.8</size>
           <text><font size="21.4"></font><b> 
 </b></text>
           </Text>
@@ -410,7 +409,6 @@
           </Text>
         <Text>
           <style>Lyricist</style>
-          <size>4.8</size>
           <text><font size="10.7"></font>Score</text>
           </Text>
         </VBox>
@@ -432,13 +430,10 @@
             <text><sym>metNoteQuarterUp</sym> = 120</text>
             </Tempo>
           <StaffText>
-            <family>Sansation</family>
-            <size>4.8</size>
             <offset x="0" y="-8.11989"/>
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Adagio</b></text>
             </StaffText>
           <StaffText>
-            <size>4.8</size>
             <text><font size="6.4"></font><i>con sordini</i></text>
             </StaffText>
           <Dynamic>
@@ -538,7 +533,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -781,9 +775,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1468,7 +1459,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -1592,7 +1582,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
@@ -2068,9 +2057,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -2233,11 +2219,6 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -2261,7 +2242,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>perdendosi</i></text>
             </StaffText>
@@ -2623,7 +2603,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -2694,7 +2673,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -2761,7 +2739,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -3497,9 +3474,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>quarter</durationType>
@@ -4040,9 +4014,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Symbol>
             <name>keyboardPedalUp</name>
@@ -4391,9 +4362,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -4884,9 +4852,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>16th</durationType>
@@ -6441,13 +6406,9 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -6708,13 +6669,9 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -6845,7 +6802,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
@@ -7065,9 +7021,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -7287,7 +7240,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -7344,9 +7296,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -10253,7 +10202,6 @@
             <sigD>2</sigD>
             </TimeSig>
           <StaffText>
-            <size>4.8</size>
             <text><font size="6.4"></font><i>con sordini</i></text>
             </StaffText>
           <Rest>
@@ -10344,7 +10292,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -11053,7 +11000,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -11548,11 +11494,6 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -11576,7 +11517,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="14.7091"/>
             <text><font size="6.4"></font><i>perdendosi</i></text>
             </StaffText>
@@ -11855,7 +11795,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -11926,7 +11865,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -11993,7 +11931,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -12225,7 +12162,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -14238,7 +14174,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -14479,7 +14414,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -14927,7 +14861,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -15650,7 +15583,6 @@
             <sigD>2</sigD>
             </TimeSig>
           <StaffText>
-            <size>4.8</size>
             <text><font size="6.4"></font><i>con sordini</i></text>
             </StaffText>
           <Rest>
@@ -15760,7 +15692,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -16195,7 +16126,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -16727,11 +16657,6 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -16980,7 +16905,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -17186,7 +17110,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -19224,7 +19147,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -19431,7 +19353,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -20598,7 +20519,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -21195,7 +21115,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -21699,11 +21618,6 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -22090,7 +22004,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -22245,7 +22158,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -24183,7 +24095,6 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -24599,7 +24510,6 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>

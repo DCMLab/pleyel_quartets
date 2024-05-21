@@ -411,8 +411,6 @@
             <sigD>8</sigD>
             </TimeSig>
           <StaffText>
-            <family>Sansation</family>
-            <size>4.8</size>
             <offset x="-0.534309" y="-13.4397"/>
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Andante Grazioso</b></text>
             </StaffText>
@@ -422,7 +420,6 @@
             <offset x="0.329141" y="2.97361"/>
             </Dynamic>
           <StaffText>
-            <size>4.8</size>
             <text><font size="6.4"></font><i>con sordini</i></text>
             </StaffText>
           <Tempo>
@@ -1069,7 +1066,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.7091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -1618,9 +1614,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -1879,16 +1872,11 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
-            <offset x="0.329141" y="3.37361"/>
+            <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1958,16 +1946,11 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
-            <offset x="0.329141" y="3.37361"/>
+            <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2407,7 +2390,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -2701,7 +2683,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -3370,16 +3351,11 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
-            <offset x="0.329141" y="3.37361"/>
+            <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -3624,16 +3600,11 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
-            <offset x="0.329141" y="3.37361"/>
+            <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -4136,7 +4107,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -4455,7 +4425,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -6407,16 +6376,11 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
-            <offset x="0.329141" y="3.37361"/>
+            <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6486,16 +6450,11 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
-            <offset x="0.329141" y="3.37361"/>
+            <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6571,7 +6530,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -7294,7 +7252,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -7977,7 +7934,6 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -8234,7 +8190,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -8710,16 +8665,11 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -8917,7 +8867,6 @@
             <offset x="0.329141" y="3.37361"/>
             </Dynamic>
           <StaffText>
-            <size>4.8</size>
             <text><font size="6.4"></font><i>con sordini</i></text>
             </StaffText>
           <Chord>
@@ -9328,7 +9277,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="14.3091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -10252,16 +10200,11 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10331,16 +10274,11 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10784,7 +10722,6 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="16.7091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -11153,7 +11090,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -11510,7 +11446,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -11872,16 +11807,11 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -12582,7 +12512,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -13153,7 +13082,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -14839,16 +14767,11 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14918,16 +14841,11 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15003,7 +14921,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -15408,7 +15325,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -15816,7 +15732,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -16112,7 +16027,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -16609,16 +16523,11 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -16786,7 +16695,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <size>4.8</size>
             <text><font size="6.4"></font><i>con sordini</i></text>
             </StaffText>
           <Rest>
@@ -17220,7 +17128,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="14.0091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -18159,16 +18066,11 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
-            <offset x="0.329141" y="3.37361"/>
+            <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -18238,16 +18140,11 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
-            <offset x="0.329141" y="3.37361"/>
+            <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -18750,7 +18647,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -19095,7 +18991,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -19457,16 +19352,11 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
-            <offset x="0.329141" y="3.37361"/>
+            <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -20155,7 +20045,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -20732,7 +20621,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -22320,16 +22208,11 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -22399,16 +22282,11 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -22484,7 +22362,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -23264,7 +23141,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -23665,7 +23541,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -23967,7 +23842,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -24419,16 +24293,11 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -25066,7 +24935,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.8091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -25591,16 +25459,11 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"/></text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -25633,16 +25496,11 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -25886,7 +25744,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><i><font size="6.4"></font>cresc.</i></text>
             </StaffText>
@@ -26222,7 +26079,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -26602,7 +26458,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -27080,7 +26935,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -27191,7 +27045,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>cresc.</i></text>
             </StaffText>
@@ -28553,21 +28406,16 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>88</velocity>
-            <offset x="0.658281" y="3.37361"/>
-            </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
+          <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <velocity>88</velocity>
+            <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
+            </Dynamic>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -28580,16 +28428,11 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -28609,7 +28452,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -29162,7 +29004,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -29952,21 +29793,16 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <size>4.8</size>
-            <offset x="0" y="2.20912"/>
-            <text><font size="8.5"></font><b><i>r</i></b></text>
-            </StaffText>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>88</velocity>
-            <offset x="0.329141" y="3.37361"/>
-            </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio43</name>
             </Harmony>
+          <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <velocity>88</velocity>
+            <offset x="0.658281" y="3.37361"/>
+            <text><i>rin</i><font face="ScoreText"></font></text>
+            </Dynamic>
           <Chord>
             <BeamMode>no</BeamMode>
             <dots>1</dots>

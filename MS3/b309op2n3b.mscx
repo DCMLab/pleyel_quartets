@@ -413,8 +413,6 @@
             <sigD>2</sigD>
             </TimeSig>
           <StaffText>
-            <family>Sansation</family>
-            <size>4.8</size>
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Allegro assai</b></text>
             </StaffText>
           <Dynamic>
@@ -423,7 +421,6 @@
             <offset x="0.329141" y="2.87361"/>
             </Dynamic>
           <StaffText>
-            <size>4.8</size>
             <text><font size="6.4"></font><i>senza sordini</i></text>
             </StaffText>
           <Tempo>
@@ -552,9 +549,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -844,9 +838,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1258,9 +1249,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -3702,7 +3690,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -4510,9 +4497,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Symbol>
             <name>keyboardPedalUp</name>
@@ -5038,9 +5022,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -5413,9 +5394,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -11538,7 +11516,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -12161,9 +12138,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -16404,9 +16378,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -16743,9 +16714,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -16971,9 +16939,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>eighth</durationType>
@@ -17381,7 +17346,6 @@
             <offset x="0.658281" y="3.17361"/>
             </Dynamic>
           <StaffText>
-            <size>4.8</size>
             <text><font size="6.4"></font><i>senza sordini</i></text>
             </StaffText>
           <Chord>
@@ -20325,7 +20289,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -34073,7 +34036,6 @@
             <sigD>2</sigD>
             </TimeSig>
           <StaffText>
-            <size>4.8</size>
             <text><font size="6.4"></font><i>senza sordini</i></text>
             </StaffText>
           <Rest>
@@ -37144,7 +37106,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -43707,7 +43668,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>
@@ -47781,7 +47741,6 @@
             <sigD>2</sigD>
             </TimeSig>
           <StaffText>
-            <size>4.8</size>
             <text><font size="6.4"></font><i>senza sordini</i></text>
             </StaffText>
           <Harmony>
@@ -50587,7 +50546,6 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -57465,7 +57423,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="8.5"></font><b><i>r</i></b></text>
             </StaffText>

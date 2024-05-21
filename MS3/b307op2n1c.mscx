@@ -414,18 +414,14 @@
             <sigD>4</sigD>
             </TimeSig>
           <StaffText>
-            <family>Sansation</family>
-            <size>4.8</size>
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Menuetto</b></text>
             </StaffText>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
           <StaffText>
-            <size>4.8</size>
             <text><font size="6.4"></font><i>senza sordini</i></text>
             </StaffText>
           <Tempo>
@@ -844,7 +840,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -1091,9 +1086,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1442,10 +1434,10 @@
       <Measure len="2/4">
         <irregular>1</irregular>
         <LayoutBreak>
-          <subtype>page</subtype>
+          <subtype>section</subtype>
           </LayoutBreak>
         <LayoutBreak>
-          <subtype>section</subtype>
+          <subtype>page</subtype>
           </LayoutBreak>
         <voice>
           <Spanner type="Volta">
@@ -1481,8 +1473,6 @@
         <irregular>1</irregular>
         <voice>
           <StaffText>
-            <family>Sansation</family>
-            <size>4.8</size>
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Trio</b></text>
             </StaffText>
           <Spanner type="Volta">
@@ -2109,9 +2099,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2898,9 +2885,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4958,13 +4942,10 @@
         <startRepeat/>
         <voice>
           <StaffText>
-            <family>Sansation</family>
-            <size>4.8</size>
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Menuetto</b></text>
             </StaffText>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
@@ -5378,7 +5359,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -6188,7 +6168,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -6420,12 +6399,10 @@
             </TimeSig>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="14.5091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
           <StaffText>
-            <size>4.8</size>
             <text><font size="6.4"></font><i>senza sordini</i></text>
             </StaffText>
           <Chord>
@@ -6836,7 +6813,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -8462,7 +8438,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="14.7091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
@@ -8874,7 +8849,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -9606,7 +9580,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -9833,12 +9806,10 @@
             </TimeSig>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="15.4091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
           <StaffText>
-            <size>4.8</size>
             <text><font size="6.4"></font><i>senza sordini</i></text>
             </StaffText>
           <Chord>
@@ -10218,7 +10189,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -11564,7 +11534,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
@@ -11935,7 +11904,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -12641,7 +12609,6 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -12868,7 +12835,6 @@
             </TimeSig>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
@@ -13264,7 +13230,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
@@ -14803,7 +14768,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="13.5091"/>
             <text><font size="6.4"></font><i>dolce</i></text>
             </StaffText>
@@ -15202,7 +15166,6 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <size>4.8</size>
             <offset x="0" y="2.20912"/>
             <text><font size="6.4"></font><i>poco </i></text>
             </StaffText>
