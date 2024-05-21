@@ -4955,6 +4955,7 @@
           </voice>
         </Measure>
       <Measure>
+        <startRepeat/>
         <voice>
           <StaffText>
             <family>Sansation</family>

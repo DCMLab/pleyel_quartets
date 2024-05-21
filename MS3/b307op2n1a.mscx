@@ -8650,6 +8650,10 @@
           </voice>
         </Measure>
       <Measure>
+        <MeasureNumber>
+          <visible>0</visible>
+          <text>87</text>
+          </MeasureNumber>
         <voice>
           <Spanner type="Volta">
             <prev>
