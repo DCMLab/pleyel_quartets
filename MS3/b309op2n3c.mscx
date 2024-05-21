@@ -216,19 +216,23 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q314019</metaTag>
     <metaTag name="annotators">Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1783</metaTag>
-    <metaTag name="composed_start">1782</metaTag>
-    <metaTag name="composer">Ignace Joseph Pleyel</metaTag>
+    <metaTag name="composed_end">1784</metaTag>
+    <metaTag name="composed_source">https://imslp.org/wiki/6_String_Quartets,_B.307-312_(Pleyel,_Ignaz)</metaTag>
+    <metaTag name="composed_start">1784</metaTag>
+    <metaTag name="composer">Ignaz Pleyel</metaTag>
     <metaTag name="copyright">YDME2015012 (v. 1.0)</metaTag>
     <metaTag name="creationDate">2017-11-29</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/6_String_Quartets%2C_B.307-312_(Pleyel%2C_Ignaz)</metaTag>
+    <metaTag name="imslp.1">https://imslp.org/wiki/6_String_Quartets,_B.307-312_(Pleyel,_Ignaz)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">3</metaTag>
     <metaTag name="movementTitle">Grazioso</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/9cbcee5a-8155-40ee-8c8e-03fbf007839f</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
@@ -237,8 +241,9 @@
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="viaf">http://viaf.org/viaf/315104256</metaTag>
-    <metaTag name="workNumber">B.309 op. 2 no. 3</metaTag>
-    <metaTag name="workTitle">String Quartet in G minor, B.309</metaTag>
+    <metaTag name="viaf.1">https://viaf.org/viaf/16145244344674480498/</metaTag>
+    <metaTag name="workNumber">Op. 2, No. 3, B.309</metaTag>
+    <metaTag name="workTitle">String Quartet in G minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -574,6 +579,7 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox/>
       <Measure>
         <voice>
           <KeySig>

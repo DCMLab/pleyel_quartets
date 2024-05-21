@@ -16,4 +16,4 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |b309op2n3c|      74|   123|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK       |
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
