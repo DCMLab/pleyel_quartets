@@ -580,7 +580,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>16.5</height>
+        <height>24.3699</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Lyricist</style>
@@ -589,20 +589,21 @@
 </b></text>
           </Text>
         <Text>
+          <style>Title</style>
+          <text>String Quartet in G minor, Op. 2, No. 3, B.309</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>1. Adagio</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <size>4.8</size>
-          <text><font size="10.7"></font><b>I. Pleyel
-Op.2, B. 309</b></text>
+          <text>Ignaz Pleyel</text>
           </Text>
         <Text>
           <style>Lyricist</style>
           <size>4.8</size>
           <text><font size="10.7"></font>Score</text>
-          </Text>
-        <Text>
-          <style>Lyricist</style>
-          <size>4.8</size>
-          <text><font size="8.9"></font><i>Six Quatuors pour deux Violons, Alto et Violoncelle</i></text>
           </Text>
         </VBox>
       <Measure>

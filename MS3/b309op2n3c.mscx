@@ -579,7 +579,22 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <height>21.5022</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>String Quartet in G minor, Op. 2, No. 3, B.309</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>3. Grazioso</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Ignaz Pleyel</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <KeySig>
