@@ -1,7 +1,7 @@
 {
-  "name": "b307op2n1c.notes",
+  "name": "b309op2n3c.chords",
   "type": "table",
-  "path": "b307op2n1c.notes.tsv",
+  "path": "b309op2n3c.chords.tsv",
   "scheme": "file",
   "format": "tsv",
   "mediatype": "text/tsv",
@@ -11,7 +11,7 @@
       "delimiter": "\t"
     }
   },
-  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/notes/V6QN4xtzdkKAKg.schema.yaml",
+  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/chords/m03RU_-fe90biA.schema.yaml",
   "creator": {
     "@context": "https://schema.org/",
     "@type": "SoftwareApplication",
