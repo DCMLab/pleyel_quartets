@@ -1,3 +1,9 @@
+![Version](https://img.shields.io/github/v/release/DCMLab/pleyel_quartets?display_name=tag)
+[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/pleyel_quartets)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
+
+
 This is a README file for a data repository originating from the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora)
 and serves as welcome page for both 
 
@@ -12,11 +18,11 @@ In his own time, Ignaz Pleyel's fame may have surpassed that of Mozart or Haydn.
 
 ## Version history
 
-See the [GitHub releases](https://github.com/DCMLab/poulenc_mouvements_perpetuels/releases).
+See the [GitHub releases](https://github.com/DCMLab/pleyel_quartets/releases).
 
 ## Questions, Suggestions, Corrections, Bug Reports
 
-Please [create an issue](https://github.com/DCMLab/poulenc_mouvements_perpetuels/issues) and/or feel free to fork and submit pull requests.
+Please [create an issue](https://github.com/DCMLab/pleyel_quartets/issues) and/or feel free to fork and submit pull requests.
 
 ## License
 
