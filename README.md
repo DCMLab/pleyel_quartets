@@ -1,8 +1,32 @@
-# annotation_workflow_template
+![Version](https://img.shields.io/github/v/release/DCMLab/pleyel_quartets?display_name=tag)
+[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/pleyel_quartets)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
-This repo holds the current version of the DCML annotation workflow which is pulled by all subcorpus repos upon push to their main branch. 
 
-Please note that the `meta_ corpora` branch should be used with collections of corpora.
+This is a README file for a data repository originating from the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora)
+and serves as welcome page for both 
+
+* the GitHub repo [https://github.com/DCMLab/pleyel_quartets](https://github.com/DCMLab/pleyel_quartets) and the corresponding
+* documentation page [https://dcmlab.github.io/pleyel_quartets](https://dcmlab.github.io/pleyel_quartets)
+
+For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/pleyel_quartets/introduction).
+
+# Ignaz Pleyel – String Quartets
+
+In his own time, Ignaz Pleyel's fame may have surpassed that of Mozart or Haydn. Today, his music is rarely performed, though the piano manufacturer he founded, Pleyel & Cie., survives to this day. These two string quartets are quite early works, completed before the composer left Austria for Alsace and truly launched his career. While Pleyel's mature works gained a reputation (perhaps unearned) for being simple and didactic, these Quartets engage in their own share of instrumental pyrotechnics. Our annotations for these works illustrate what is arguably the ideal archetypical Classical style and have proven useful in establishing an analytical paradigm for our research efforts.
+
+## Version history
+
+See the [GitHub releases](https://github.com/DCMLab/pleyel_quartets/releases).
+
+## Questions, Suggestions, Corrections, Bug Reports
+
+Please [create an issue](https://github.com/DCMLab/pleyel_quartets/issues) and/or feel free to fork and submit pull requests.
+
+## License
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
 
 ## Overview
@@ -16,4 +40,4 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |b309op2n3c|      74|   123|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK       |
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
