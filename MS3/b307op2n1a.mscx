@@ -28,7 +28,6 @@
     <metaTag name="creationDate">2017-11-21</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/6_String_Quartets%2C_B.307-312_(Pleyel%2C_Ignaz)</metaTag>
-    <metaTag name="imslp.1">https://imslp.org/wiki/6_String_Quartets,_B.307-312_(Pleyel,_Ignaz)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">1</metaTag>
     <metaTag name="movementTitle">Allegro</metaTag>
@@ -42,7 +41,6 @@
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="viaf">http://viaf.org/viaf/315104251</metaTag>
-    <metaTag name="viaf.1">https://viaf.org/viaf/184548000/</metaTag>
     <metaTag name="workNumber">Op. 2, No. 1, B.307</metaTag>
     <metaTag name="workTitle">String Quartet in A major</metaTag>
     <Part>
@@ -420,7 +418,7 @@
             <tempo>2</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 120</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 120</b></text>
             </Tempo>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -871,7 +869,7 @@
             <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
             <offset x="0.329141" y="3.37361"/>
-            <text><i>rin</i><font face="ScoreText"/></text>
+            <text><i>rin</i><font face="ScoreText"></font></text>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
