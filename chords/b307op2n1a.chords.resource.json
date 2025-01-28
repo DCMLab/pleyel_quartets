@@ -180,17 +180,17 @@
         "type": "string"
       },
       {
-        "name": "Trill:trill",
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
+        "name": "Trill:trill",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "DMzcB5eR0U8z0g",
-    "filepath": "chords/DMzcB5eR0U8z0g.schema.yaml",
+    "identifier": "ktu0dAoecI8OPQ",
+    "filepath": "chords/ktu0dAoecI8OPQ.schema.yaml",
     "used_in": "b307op2n1a"
   },
   "creator": {
@@ -205,6 +205,6 @@
     },
     "softwareVersion": "2.5.3"
   },
-  "git_revision": "099c1e43c5eae25d830c22e96a4fe78d497bf3c2",
-  "git_tag": "v2.2"
+  "git_revision": "074c60a863098ea7c6b8169ceff4af429dd5d850",
+  "git_tag": "v2.2-13-g074c60a"
 }

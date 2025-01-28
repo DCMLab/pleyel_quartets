@@ -7658,10 +7658,11 @@
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <Accidental>
-                <subtype>accidentalDoubleSharp</subtype>
+                <role>1</role>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
-              <pitch>79</pitch>
-              <tpc>27</tpc>
+              <pitch>78</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -7697,8 +7698,12 @@
             <grace16/>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
-              <pitch>79</pitch>
-              <tpc>27</tpc>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>78</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -7758,8 +7763,11 @@
             <grace16/>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>75</pitch>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Beam>
@@ -23753,9 +23761,11 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             <Note>
               <Accidental>
@@ -23773,9 +23783,12 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             <Note>
               <pitch>65</pitch>
