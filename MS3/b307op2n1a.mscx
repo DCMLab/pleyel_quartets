@@ -7531,10 +7531,11 @@
             <grace16/>
             <Note>
               <Accidental>
-                <subtype>accidentalDoubleSharp</subtype>
+                <role>1</role>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
-              <pitch>79</pitch>
-              <tpc>27</tpc>
+              <pitch>78</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -7568,8 +7569,12 @@
             <durationType>16th</durationType>
             <grace16/>
             <Note>
-              <pitch>79</pitch>
-              <tpc>27</tpc>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>78</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -7626,8 +7631,11 @@
             <durationType>16th</durationType>
             <grace16/>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>75</pitch>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Beam>
