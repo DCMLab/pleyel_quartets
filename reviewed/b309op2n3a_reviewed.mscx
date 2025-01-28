@@ -14442,7 +14442,6 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -24585,6 +24584,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(642)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64(2)</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -24592,7 +24597,6 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -24603,7 +24607,13 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <offset x="0" y="-4.5"/>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64</name>
+            <color r="0" g="85" b="0" a="255"/>
+            <offset x="0.102249" y="3.56452"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
