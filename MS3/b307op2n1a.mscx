@@ -23408,8 +23408,11 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             <Note>
               <Accidental>
@@ -23427,8 +23430,12 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             <Note>
               <pitch>65</pitch>
