@@ -24350,7 +24350,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(642)</name>
+            <name>V64(2)</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -24367,8 +24367,8 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <offset x="0" y="-4.5"/>
+            <name>V64</name>
+            <offset x="0.102249" y="3.56452"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
