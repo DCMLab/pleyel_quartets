@@ -7,4 +7,5 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 18, '1/4', '#viio/vi') ms3.Par
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 58, '1/4', '#viio/vi') ms3.Parse.pleyel_quartets.b307op2n1c
 	The label '#viio/vi' in m. 54, onset 1/4 (MC 58, onset 1/4) is viable if we consider no third is present.
 
-
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 70, '0', '#viio/vi') ms3.Parse.pleyel_quartets.b307op2n1c
+	The label '#viio/vi' in m. 66, onset 0 (MC 70, onset 0) is viable if we consider no third is present. 
