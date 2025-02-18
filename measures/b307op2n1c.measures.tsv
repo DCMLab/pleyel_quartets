@@ -20,7 +20,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	keysig	timesig	act_dur	m
 19	19	54	54	3.0	3	3/4	3/4	0							20, 21
 20	20		57	3.0	3	3/4	3/4	0	1					end	9
 21	20	57	60	2.0	3	3/4	1/2	0	2		1		section & page		22
-22	20	59	62	1.0	3	3/4	1/4	1/2			1				23
+22	20	59	62	1.0	3	3/4	1/4	1/2			1	start-repeat		start	23
 23	21	60	63	3.0	3	3/4	3/4	0							24
 24	22	63	66	3.0	3	3/4	3/4	0							25
 25	23	66	69	3.0	3	3/4	3/4	0							26
@@ -30,7 +30,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	keysig	timesig	act_dur	m
 29	27	78	81	3.0	3	3/4	3/4	0							30
 30	28	81	84	3.0	3	3/4	3/4	0							31
 31	29	84	87	3.0	3	3/4	3/4	0							32
-32	30	87	90	2.0	3	3/4	1/2	0						end	33
+32	30	87	90	2.0	3	3/4	1/2	0						end	22, 33
 33	30	89	92	1.0	3	3/4	1/4	1/2			1			start	34
 34	31	90	93	3.0	3	3/4	3/4	0							35
 35	32	93	96	3.0	3	3/4	3/4	0							36

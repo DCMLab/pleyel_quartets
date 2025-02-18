@@ -1459,8 +1459,13 @@
           </voice>
         </Measure>
       <Measure len="1/4">
+        <startRepeat/>
         <irregular>1</irregular>
         <voice>
+          <BarLine>
+            <subtype>start-repeat</subtype>
+            <visible>0</visible>
+            </BarLine>
           <StaffText>
             <text><font size="10"></font><font face="Sansation Regular"></font><b>Trio</b></text>
             </StaffText>
@@ -7446,6 +7451,10 @@
         </Measure>
       <Measure len="1/4">
         <voice>
+          <BarLine>
+            <subtype>start-repeat</subtype>
+            <visible>0</visible>
+            </BarLine>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -10787,6 +10796,10 @@
         </Measure>
       <Measure len="1/4">
         <voice>
+          <BarLine>
+            <subtype>start-repeat</subtype>
+            <visible>0</visible>
+            </BarLine>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -13748,6 +13761,10 @@
         </Measure>
       <Measure len="1/4">
         <voice>
+          <BarLine>
+            <subtype>start-repeat</subtype>
+            <visible>0</visible>
+            </BarLine>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V{</name>
