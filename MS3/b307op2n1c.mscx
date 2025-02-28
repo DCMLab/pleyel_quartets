@@ -1464,6 +1464,7 @@
         <voice>
           <BarLine>
             <subtype>start-repeat</subtype>
+            <span>1</span>
             <visible>0</visible>
             </BarLine>
           <StaffText>
@@ -7453,6 +7454,7 @@
         <voice>
           <BarLine>
             <subtype>start-repeat</subtype>
+            <span>1</span>
             <visible>0</visible>
             </BarLine>
           <Spanner type="Volta">
@@ -12976,7 +12978,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>V(64)}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -12998,7 +13000,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -13463,7 +13465,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>V(64)}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -13485,7 +13487,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -14362,7 +14364,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>V(64)}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -14375,7 +14377,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -14911,7 +14913,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>V(64)}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -14933,7 +14935,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -15401,7 +15403,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>V(64)}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -15423,7 +15425,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>

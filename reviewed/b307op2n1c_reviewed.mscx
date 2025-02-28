@@ -20,7 +20,6 @@
     <metaTag name="P86 (composer)">Q314019</metaTag>
     <metaTag name="annotators">Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1784</metaTag>
     <metaTag name="composed_source">https://imslp.org/wiki/6_String_Quartets,_B.307-312_(Pleyel,_Ignaz)</metaTag>
     <metaTag name="composed_start">1784</metaTag>
@@ -1486,6 +1485,7 @@
         <voice>
           <BarLine>
             <subtype>start-repeat</subtype>
+            <span>1</span>
             <visible>0</visible>
             </BarLine>
           <StaffText>
@@ -7536,6 +7536,7 @@
         <voice>
           <BarLine>
             <subtype>start-repeat</subtype>
+            <span>1</span>
             <visible>0</visible>
             </BarLine>
           <Spanner type="Volta">
@@ -12974,13 +12975,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>A.I</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>A.I{</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -13127,12 +13122,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -13156,12 +13145,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V|HC</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -13629,12 +13612,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -13658,12 +13635,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V|HC</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -14543,12 +14514,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -14562,12 +14527,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V|HC</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -15104,12 +15063,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -15133,12 +15086,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V|HC</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -15609,12 +15556,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -15638,12 +15579,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V|HC</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
