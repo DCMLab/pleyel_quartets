@@ -29,7 +29,6 @@
     <metaTag name="creationDate">2017-11-29</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/6_String_Quartets%2C_B.307-312_(Pleyel%2C_Ignaz)</metaTag>
-    <metaTag name="imslp.1">https://imslp.org/wiki/6_String_Quartets,_B.307-312_(Pleyel,_Ignaz)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">1</metaTag>
     <metaTag name="movementTitle">Adagio</metaTag>
@@ -43,7 +42,6 @@
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="viaf">http://viaf.org/viaf/315104256</metaTag>
-    <metaTag name="viaf.1">https://viaf.org/viaf/16145244344674480498/</metaTag>
     <metaTag name="workNumber">Op. 2, No. 3, B.309</metaTag>
     <metaTag name="workTitle">String Quartet in G minor</metaTag>
     <Part>
@@ -14444,7 +14442,6 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -24587,6 +24584,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(642)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64(2)</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -24594,7 +24597,6 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -24605,7 +24607,13 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <offset x="0" y="-4.5"/>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64</name>
+            <color r="0" g="85" b="0" a="255"/>
+            <offset x="0.102249" y="3.56452"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>

@@ -1,5 +1,5 @@
 mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	offset	volta	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note	n_colored	n_untouched	count_ratio	dur_colored	dur_untouched	dur_ratio
-1	1	0	0	3/4	4	1	A.I	0	-4.5	/		A	I		I	I							M	0	0	3, 7, 4		3	3	0	4	0.0	0.0	1.75	0.0
+1	1	0	0	3/4	4	1	A.I{	0	-4.5	/		A	I		I	I						{	M	0	0	3, 7, 4		3	3	0	4	0.0	0.0	1.75	0.0
 1	1	1/4	1/4	3/4	4	1	I6	0	-4.5	/		A	I		I6	I		6					M	0	0	7, 4, 3		3	7	0	1	0.0	0.0	0.25	0.0
 1	1	1/2	1/2	3/4	4	1	V7	0	-4.5	/		A	I		V7	V		7					Mm7	0	0	4, 8, 5, 2		4	4	0	4	0.0	0.0	1.0	0.0
 2	2	0	0	3/4	4	1	vi(64)					A	I		vi(64)	vi			64				m	0	0	6, 5, 2		6	6	3	4	0.42857142857142855	0.375	0.875	0.3
