@@ -20,7 +20,6 @@
     <metaTag name="P86 (composer)">Q314019</metaTag>
     <metaTag name="annotators">Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1784</metaTag>
     <metaTag name="composed_source">https://imslp.org/wiki/6_String_Quartets,_B.307-312_(Pleyel,_Ignaz)</metaTag>
     <metaTag name="composed_start">1784</metaTag>
@@ -454,7 +453,6 @@
           </voice>
         </Measure>
       <Measure>
-        <startRepeat/>
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -8555,21 +8553,9 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/4">
         <endRepeat>2</endRepeat>
         <voice>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>1</beginText>
-              <endings>1</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -8611,124 +8597,19 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <offset x="0.658281" y="2.67361"/>
-            </Dynamic>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <BeamMode>mid</BeamMode>
-            <durationType>16th</durationType>
-            </Rest>
-          <Chord>
-            <BeamMode>end</BeamMode>
-            <durationType>16th</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <color r="255" g="0" b="0" a="255"/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
               </Note>
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="1/4">
+        <startRepeat/>
         <irregular>1</irregular>
         <voice>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>2</beginText>
-              <endings>2</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <color r="255" g="0" b="0" a="255"/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            <Note>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <color r="255" g="0" b="0" a="255"/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            <Note>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            <span>1</span>
-            </BarLine>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
             <offset x="0.329141" y="2.67361"/>
             </Dynamic>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -8759,18 +8640,7 @@
           </voice>
         </Measure>
       <Measure>
-        <MeasureNumber>
-          <visible>0</visible>
-          <text>87</text>
-          </MeasureNumber>
         <voice>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -23268,20 +23138,8 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/4">
         <voice>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>1</beginText>
-              <endings>1</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -23315,108 +23173,12 @@
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <offset x="0.658281" y="3.07361"/>
-            </Dynamic>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <BeamMode>mid</BeamMode>
-            <durationType>16th</durationType>
-            </Rest>
-          <Chord>
-            <BeamMode>end</BeamMode>
-            <durationType>16th</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="1/4">
         <voice>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>2</beginText>
-              <endings>2</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <color r="255" g="0" b="0" a="255"/>
-              <pitch>68</pitch>
-              <tpc>22</tpc>
-              </Note>
-            <Note>
-              <color r="255" g="0" b="0" a="255"/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <color r="255" g="0" b="0" a="255"/>
-              <pitch>68</pitch>
-              <tpc>22</tpc>
-              </Note>
-            <Note>
-              <color r="255" g="0" b="0" a="255"/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            <span>1</span>
-            </BarLine>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
@@ -23456,13 +23218,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -33645,20 +33400,8 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/4">
         <voice>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>1</beginText>
-              <endings>1</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -33686,62 +33429,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="1/4">
         <voice>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>2</beginText>
-              <endings>2</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
@@ -33781,13 +33472,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -44297,20 +43981,8 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/4">
         <voice>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>1</beginText>
-              <endings>1</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -44338,66 +44010,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I.I6{</name>
-            </Harmony>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="1/4">
         <voice>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>2</beginText>
-              <endings>2</endings>
-              </Volta>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
@@ -44441,13 +44057,6 @@
             <harmonyType>1</harmonyType>
             <name>i6</name>
             </Harmony>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>

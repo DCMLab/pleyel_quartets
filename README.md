@@ -32,7 +32,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
 ## Overview
 |file_name |measures|labels|standard|                annotators                 |reviewers|
 |----------|-------:|-----:|--------|-------------------------------------------|---------|
-|b307op2n1a|     197|   403|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK, AN   |
+|b307op2n1a|     197|   402|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK, AN   |
 |b307op2n1b|     107|   190|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK, AN   |
 |b307op2n1c|      78|   156|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK, AN   |
 |b309op2n3a|      98|   189|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK, AN   |

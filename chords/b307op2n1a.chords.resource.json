@@ -53,12 +53,6 @@
         "description": "A float corresponding to duration * 4"
       },
       {
-        "name": "volta",
-        "type": "integer",
-        "title": "Volta",
-        "description": "Number of an ending bracket, given as integer."
-      },
-      {
         "name": "mc_onset",
         "type": "string",
         "title": "Offset within Encoded Measure",
@@ -189,8 +183,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "DMzcB5eR0U8z0g",
-    "filepath": "chords/DMzcB5eR0U8z0g.schema.yaml",
+    "identifier": "mkAb5ew8xFpCsA",
+    "filepath": "chords/mkAb5ew8xFpCsA.schema.yaml",
     "used_in": "b307op2n1a"
   },
   "creator": {
@@ -204,7 +198,5 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  },
-  "git_revision": "b22f54df14463735ab46531f1cbd510fba5f9fc2",
-  "git_tag": "v2.2-15-gb22f54d"
+  }
 }
