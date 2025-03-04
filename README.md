@@ -28,6 +28,16 @@ Please [create an issue](https://github.com/DCMLab/pleyel_quartets/issues) and/o
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
+![cc-by-nc-sa-image](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
+
+## File naming convention
+
+```regex
+b(?<benton>\d{3})
+op(?<op>\d)
+n(?<no>\d)
+(?<movement>a|b|c)
+```
 
 ## Overview
 |file_name |measures|labels|standard|                annotators                 |reviewers|
