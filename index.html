@@ -9,7 +9,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
 
-    <title>annotation_workflow_template &#8212; Ignaz Pleyel – String Quartets v2.5 documentation</title>
+    <title>Ignaz Pleyel – String Quartets (A corpus of annotated scores) &#8212; Ignaz Pleyel – String Quartets v2.5 documentation</title>
   
   
   
@@ -286,19 +286,135 @@ document.write(`
   <nav class="contents local" id="readme" role="doc-toc">
 <p class="topic-title">README</p>
 <ul class="simple">
-<li><p><a class="reference internal" href="#annotation-workflow-template" id="id1">annotation_workflow_template</a></p>
+<li><p><a class="reference internal" href="#ignaz-pleyel-string-quartets-a-corpus-of-annotated-scores" id="id1">Ignaz Pleyel – String Quartets (A corpus of annotated scores)</a></p>
 <ul>
-<li><p><a class="reference internal" href="#overview" id="id2">Overview</a></p></li>
+<li><p><a class="reference internal" href="#getting-the-data" id="id2">Getting the data</a></p></li>
+<li><p><a class="reference internal" href="#data-formats" id="id3">Data Formats</a></p>
+<ul>
+<li><p><a class="reference internal" href="#opening-scores" id="id4">Opening Scores</a></p></li>
+<li><p><a class="reference internal" href="#opening-tsv-files-in-a-spreadsheet" id="id5">Opening TSV files in a spreadsheet</a></p></li>
+<li><p><a class="reference internal" href="#loading-tsv-files-in-python" id="id6">Loading TSV files in Python</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#version-history" id="id7">Version history</a></p></li>
+<li><p><a class="reference internal" href="#questions-suggestions-corrections-bug-reports" id="id8">Questions, Suggestions, Corrections, Bug Reports</a></p></li>
+<li><p><a class="reference internal" href="#cite-as" id="id9">Cite as</a></p></li>
+<li><p><a class="reference internal" href="#license" id="id10">License</a></p></li>
+<li><p><a class="reference internal" href="#file-naming-convention" id="id11">File naming convention</a></p></li>
+<li><p><a class="reference internal" href="#overview" id="id12">Overview</a></p></li>
 </ul>
 </li>
 </ul>
 </nav>
-<section id="annotation-workflow-template">
-<h1><a class="toc-backref" href="#id1" role="doc-backlink">annotation_workflow_template</a><a class="headerlink" href="#annotation-workflow-template" title="Permalink to this heading">#</a></h1>
-<p>This repo holds the current version of the DCML annotation workflow which is pulled by all subcorpus repos upon push to their main branch.</p>
-<p>Please note that the <code class="docutils literal notranslate"><span class="pre">meta_</span> <span class="pre">corpora</span></code> branch should be used with collections of corpora.</p>
+<p><img alt="Version" src="https://img.shields.io/github/v/release/DCMLab/pleyel_quartets?display_name=tag" />
+<a class="reference external" href="https://doi.org/10.5281/zenodo.14997048"><img alt="DOI" src="https://zenodo.org/badge/388097533.svg" /></a>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DCMLab/pleyel_quartets" />
+<img alt="License" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf" /></p>
+<p>This is a README file for a data repository originating from the <a class="reference external" href="https://github.com/DCMLab/dcml_corpora">DCML corpus initiative</a>
+and serves as welcome page for both</p>
+<ul class="simple">
+<li><p>the GitHub repo <a class="github reference external" href="https://github.com/DCMLab/pleyel_quartets">DCMLab/pleyel_quartets</a> and the corresponding</p></li>
+<li><p>documentation page <a class="reference external" href="https://dcmlab.github.io/pleyel_quartets">https://dcmlab.github.io/pleyel_quartets</a></p></li>
+</ul>
+<p>For information on how to obtain and use the dataset, please refer to <a class="reference external" href="https://dcmlab.github.io/pleyel_quartets/introduction">this documentation page</a>.</p>
+<p>When you use (parts of) this dataset in your work, please read and cite the accompanying data report:</p>
+<p><em>Hentschel, J., Rammos, Y., Neuwirth, M., &amp; Rohrmeier, M. (2025). A corpus and a modular infrastructure for the
+empirical study of (an)notated music. Scientific Data, 12(1), 685. https://doi.org/10.1038/s41597-025-04976-z</em></p>
+<section id="ignaz-pleyel-string-quartets-a-corpus-of-annotated-scores">
+<h1><a class="toc-backref" href="#id1" role="doc-backlink">Ignaz Pleyel – String Quartets (A corpus of annotated scores)</a><a class="headerlink" href="#ignaz-pleyel-string-quartets-a-corpus-of-annotated-scores" title="Permalink to this heading">#</a></h1>
+<p>In his own time, Ignaz Pleyel’s fame may have surpassed that of Mozart or Haydn. Today, his music is rarely performed,
+though the piano manufacturer he founded, Pleyel &amp; Cie., survives to this day. These two string quartets are quite early
+works, completed before the composer left Austria for Alsace and truly launched his career. While Pleyel’s mature works
+gained a reputation (perhaps unearned) for being simple and didactic, these Quartets engage in their own share of
+instrumental pyrotechnics. Our annotations for these works illustrate what is arguably the ideal archetypical Classical
+style and have proven useful in establishing an analytical paradigm for our research efforts.</p>
+<section id="getting-the-data">
+<h2><a class="toc-backref" href="#id2" role="doc-backlink">Getting the data</a><a class="headerlink" href="#getting-the-data" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>download repository as a <a class="reference external" href="https://github.com/DCMLab/pleyel_quartets/archive/main.zip">ZIP file</a></p></li>
+<li><p>download a <a class="reference external" href="https://specs.frictionlessdata.io/data-package/">Frictionless Datapackage</a> that includes concatenations
+of the TSV files in the four folders (<code class="docutils literal notranslate"><span class="pre">measures</span></code>, <code class="docutils literal notranslate"><span class="pre">notes</span></code>, <code class="docutils literal notranslate"><span class="pre">chords</span></code>, and <code class="docutils literal notranslate"><span class="pre">harmonies</span></code>) and a JSON descriptor:</p>
+<ul>
+<li><p><a class="reference external" href="https://github.com/DCMLab/pleyel_quartets/releases/latest/download/pleyel_quartets.zip">pleyel_quartets.zip</a></p></li>
+<li><p><a class="reference external" href="https://github.com/DCMLab/pleyel_quartets/releases/latest/download/pleyel_quartets.datapackage.json">pleyel_quartets.datapackage.json</a></p></li>
+</ul>
+</li>
+<li><p>clone the repo: <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">clone</span> <span class="pre">https://github.com/DCMLab/pleyel_quartets.git</span></code></p></li>
+</ul>
+</section>
+<section id="data-formats">
+<h2><a class="toc-backref" href="#id3" role="doc-backlink">Data Formats</a><a class="headerlink" href="#data-formats" title="Permalink to this heading">#</a></h2>
+<p>Each piece in this corpus is represented by five files with identical name prefixes, each in its own folder.
+For example, the first movement of the first quartet, Op. 2, No. 1, B.307 has the following files:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">MS3/b307op2n1a.mscx</span></code>: Uncompressed MuseScore 3.6.2 file including the music and annotation labels.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">notes/b307op2n1a.notes.tsv</span></code>: A table of all note heads contained in the score and their relevant features (not each of them represents an onset, some are tied together)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">measures/b307op2n1a.measures.tsv</span></code>: A table with relevant information about the measures in the score.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">chords/b307op2n1a.chords.tsv</span></code>: A table containing layer-wise unique onset positions with the musical markup (such as dynamics, articulation, lyrics, figured bass, etc.).</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">harmonies/b307op2n1a.harmonies.tsv</span></code>: A table of the included harmony labels (including cadences and phrases) with their positions in the score.</p></li>
+</ul>
+<p>Each TSV file comes with its own JSON descriptor that describes the meanings and datatypes of the columns (“fields”) it contains,
+follows the <a class="reference external" href="https://specs.frictionlessdata.io/tabular-data-resource/">Frictionless specification</a>,
+and can be used to validate and correctly load the described file.</p>
+<section id="opening-scores">
+<h3><a class="toc-backref" href="#id4" role="doc-backlink">Opening Scores</a><a class="headerlink" href="#opening-scores" title="Permalink to this heading">#</a></h3>
+<p>After navigating to your local copy, you can open the scores in the folder <code class="docutils literal notranslate"><span class="pre">MS3</span></code> with the free and open source score
+editor <a class="reference external" href="https://musescore.org">MuseScore</a>. Please note that the scores have been edited, annotated and tested with
+<a class="reference external" href="https://github.com/musescore/MuseScore/releases/tag/v3.6.2">MuseScore 3.6.2</a>.
+MuseScore 4 has since been released which renders them correctly but cannot store them back in the same format.</p>
+</section>
+<section id="opening-tsv-files-in-a-spreadsheet">
+<h3><a class="toc-backref" href="#id5" role="doc-backlink">Opening TSV files in a spreadsheet</a><a class="headerlink" href="#opening-tsv-files-in-a-spreadsheet" title="Permalink to this heading">#</a></h3>
+<p>Tab-separated value (TSV) files are like Comma-separated value (CSV) files and can be opened with most modern text
+editors. However, for correctly displaying the columns, you might want to use a spreadsheet or an addon for your
+favourite text editor. When you use a spreadsheet such as Excel, it might annoy you by interpreting fractions as
+dates. This can be circumvented by using <code class="docutils literal notranslate"><span class="pre">Data</span> <span class="pre">--&gt;</span> <span class="pre">From</span> <span class="pre">Text/CSV</span></code> or the free alternative
+<a class="reference external" href="https://www.libreoffice.org/download/download/">LibreOffice Calc</a>. Other than that, TSV data can be loaded with
+every modern programming language.</p>
+</section>
+<section id="loading-tsv-files-in-python">
+<h3><a class="toc-backref" href="#id6" role="doc-backlink">Loading TSV files in Python</a><a class="headerlink" href="#loading-tsv-files-in-python" title="Permalink to this heading">#</a></h3>
+<p>Since the TSV files contain null values, lists, fractions, and numbers that are to be treated as strings, you may want
+to use this code to load any TSV files related to this repository (provided you’re doing it in Python). After a quick
+<code class="docutils literal notranslate"><span class="pre">pip</span> <span class="pre">install</span> <span class="pre">-U</span> <span class="pre">ms3</span></code> (requires Python 3.10 or later) you’ll be able to load any TSV like this:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">ms3</span>
+
+<span class="n">labels</span> <span class="o">=</span> <span class="n">ms3</span><span class="o">.</span><span class="n">load_tsv</span><span class="p">(</span><span class="s2">&quot;harmonies/b307op2n1a.harmonies.tsv&quot;</span><span class="p">)</span>
+<span class="n">notes</span> <span class="o">=</span> <span class="n">ms3</span><span class="o">.</span><span class="n">load_tsv</span><span class="p">(</span><span class="s2">&quot;notes/b307op2n1a.notes.tsv&quot;</span><span class="p">)</span>
+</pre></div>
+</div>
+</section>
+</section>
+<section id="version-history">
+<h2><a class="toc-backref" href="#id7" role="doc-backlink">Version history</a><a class="headerlink" href="#version-history" title="Permalink to this heading">#</a></h2>
+<p>See the <a class="reference external" href="https://github.com/DCMLab/pleyel_quartets/releases">GitHub releases</a>.</p>
+</section>
+<section id="questions-suggestions-corrections-bug-reports">
+<h2><a class="toc-backref" href="#id8" role="doc-backlink">Questions, Suggestions, Corrections, Bug Reports</a><a class="headerlink" href="#questions-suggestions-corrections-bug-reports" title="Permalink to this heading">#</a></h2>
+<p>Please <a class="reference external" href="https://github.com/DCMLab/pleyel_quartets/issues">create an issue</a> and/or feel free to fork and submit pull requests.</p>
+</section>
+<section id="cite-as">
+<h2><a class="toc-backref" href="#id9" role="doc-backlink">Cite as</a><a class="headerlink" href="#cite-as" title="Permalink to this heading">#</a></h2>
+<blockquote>
+<div><p>Hentschel, J., Rammos, Y., Neuwirth, M., &amp; Rohrmeier, M. (2025). A corpus and a modular infrastructure for the empirical study of (an)notated music. Scientific Data, 12(1), 685. https://doi.org/10.1038/s41597-025-04976-z</p>
+</div></blockquote>
+</section>
+<section id="license">
+<h2><a class="toc-backref" href="#id10" role="doc-backlink">License</a><a class="headerlink" href="#license" title="Permalink to this heading">#</a></h2>
+<p>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (<a class="reference external" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>).</p>
+<p><img alt="cc-by-nc-sa-image" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" /></p>
+</section>
+<section id="file-naming-convention">
+<h2><a class="toc-backref" href="#id11" role="doc-backlink">File naming convention</a><a class="headerlink" href="#file-naming-convention" title="Permalink to this heading">#</a></h2>
+<div class="highlight-regex notranslate"><div class="highlight"><pre><span></span>b(?&lt;benton&gt;\d{3})
+op(?&lt;op&gt;\d)
+n(?&lt;no&gt;\d)
+(?&lt;movement&gt;a|b|c)
+</pre></div>
+</div>
+</section>
 <section id="overview">
-<h2><a class="toc-backref" href="#id2" role="doc-backlink">Overview</a><a class="headerlink" href="#overview" title="Permalink to this heading">#</a></h2>
+<h2><a class="toc-backref" href="#id12" role="doc-backlink">Overview</a><a class="headerlink" href="#overview" title="Permalink to this heading">#</a></h2>
 <table class="table">
 <thead>
 <tr class="row-odd"><th class="head"><p>file_name</p></th>
@@ -312,7 +428,7 @@ document.write(`
 <tbody>
 <tr class="row-even"><td><p>b307op2n1a</p></td>
 <td class="text-right"><p>197</p></td>
-<td class="text-right"><p>403</p></td>
+<td class="text-right"><p>402</p></td>
 <td><p>2.3.0</p></td>
 <td><p>Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)</p></td>
 <td><p>DK, AN</p></td>
@@ -354,7 +470,7 @@ document.write(`
 </tr>
 </tbody>
 </table>
-<p><em>Overview table automatically updated using <a class="reference external" href="https://johentsch.github.io/ms3/">ms3</a>.</em></p>
+<p><em>Overview table automatically updated using <a class="reference external" href="https://ms3.readthedocs.io/">ms3</a>.</em></p>
 </section>
 </section>
 <div class="toctree-wrapper compound">
@@ -403,6 +519,18 @@ document.write(`
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#getting-the-data">Getting the data</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#data-formats">Data Formats</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#opening-scores">Opening Scores</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#opening-tsv-files-in-a-spreadsheet">Opening TSV files in a spreadsheet</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#loading-tsv-files-in-python">Loading TSV files in Python</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#version-history">Version history</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#questions-suggestions-corrections-bug-reports">Questions, Suggestions, Corrections, Bug Reports</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#cite-as">Cite as</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#license">License</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#file-naming-convention">File naming convention</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
 </ul>
   </nav></div>
